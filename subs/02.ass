@@ -1,0 +1,592 @@
+[Script Info]
+Title: [Erai-raws] Español (América Latina)
+ScaledBorderAndShadow: yes
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Cart_TitleEp,Trebuchet MS,26,&H00FFFFFF,&H000000FF,&H00712E2B,&H00797979,-1,0,0,0,100,100,0,0,1,0,0,2,0020,0020,0150,1
+Style: Cart_A_Tre,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_A_Tim,Times New Roman,24,&H00FFFFFF,&H000000FF,&H00303030,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_A_Ari,Verdana,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,110,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_Tre_NoShad,Trebuchet MS,18,&H00000000,&H000000FF,&H00FFFFFF,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,0,0,8,0020,0020,0020,1
+Style: Cart_SeriesTitle,Verdana,25,&H006C1EDF,&H000000FF,&H00FBFCFA,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0030,0030,0020,1
+Style: Cart_Avance,Trebuchet MS,16,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0010,0010,0018,1
+Style: Cart_Nota,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H008E2BD8,&H008D365A,0,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_Next,Trebuchet MS,22,&H00F8FFFF,&H000000FF,&H00110D3A,&H005B5D5F,0,0,0,0,100,100,0,0,1,1,0,8,0020,0020,0130,1
+Style: Cart_Basic,Verdana,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,110,0,0,1,2,0,2,0010,0010,0018,1
+Style: Cart_BasicBox,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,3,2,1,2,0010,0010,0018,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.00,0:00:02.98,Cart_A_Tre,Sign,0000,0000,0000,,{\bord0\an2\pos(320,290)\c&H000000&\b1}Por: Space Neko Company{\b0}
+Dialogue: 0,0:00:00.60,0:00:02.33,Gen_Main,Pipimi,0000,0000,0000,,Pop Team Epic.
+Dialogue: 0,0:00:03.81,0:00:05.48,Gen_Main,Popuko,0000,0000,0000,,Adelante.
+Dialogue: 0,0:00:05.65,0:00:08.13,Gen_Main,Patron,0000,0000,0000,,Por favor, córtele el pelo\Na mi pequeñín.
+Dialogue: 0,0:00:08.27,0:00:09.34,Gen_Main,Popuko,0000,0000,0000,,Claro.
+Dialogue: 0,0:00:15.20,0:00:16.99,Gen_Main,Popuko,0000,0000,0000,,Rayos. Qué fallo.
+Dialogue: 0,0:00:18.12,0:00:20.02,Gen_Main,Patron,0000,0000,0000,,¿Cómo va mi pequeñín?
+Dialogue: 0,0:00:20.91,0:00:22.02,Gen_Main,Popuko,0000,0000,0000,,Murió.
+Dialogue: 0,0:00:43.04,0:00:44.80,Gen_Italics,OP Lyrics,0000,0000,0000,,Encontró el camino al cielo.
+Dialogue: 0,0:00:44.98,0:00:46.43,Gen_Italics,OP Lyrics,0000,0000,0000,,Mi vida pasada contigo.
+Dialogue: 0,0:00:46.60,0:00:48.08,Gen_Italics,OP Lyrics,0000,0000,0000,,Viste los ojos del cielo.
+Dialogue: 0,0:00:48.23,0:00:49.80,Gen_Italics,OP Lyrics,0000,0000,0000,,Confesiones infinitas.
+Dialogue: 0,0:00:49.98,0:00:51.53,Gen_Italics,OP Lyrics,0000,0000,0000,,Estuve en el séptimo cielo.
+Dialogue: 0,0:00:51.69,0:00:53.03,Gen_Italics,OP Lyrics,0000,0000,0000,,El conflicto se acelera.
+Dialogue: 0,0:00:53.19,0:00:56.46,Gen_Italics,OP Lyrics,0000,0000,0000,,Por todos los cielos…\NTus motivos para vivir son abstractos.
+Dialogue: 0,0:00:56.61,0:00:59.54,Gen_Italics,OP Lyrics,0000,0000,0000,,Mira, cariño, qué peligro.
+Dialogue: 0,0:00:59.70,0:01:03.04,Gen_Italics,OP Lyrics,0000,0000,0000,,Muchísimos problemas,\Ncon tu cara de póker.
+Dialogue: 0,0:01:03.20,0:01:06.22,Gen_Italics,OP Lyrics,0000,0000,0000,,Mira, cariño, es ridículo.
+Dialogue: 0,0:01:06.37,0:01:10.01,Gen_Italics,OP Lyrics,0000,0000,0000,,La vida es como una burbuja\Nentre los sueños y la realidad.
+Dialogue: 0,0:01:10.42,0:01:15.02,Gen_Italics,OP Lyrics,0000,0000,0000,,¿Qué es lo que sientes?
+Dialogue: 0,0:01:15.17,0:01:17.52,Gen_Italics,OP Lyrics,0000,0000,0000,,Para siempre.
+Dialogue: 0,0:01:17.68,0:01:23.06,Gen_Italics,OP Lyrics,0000,0000,0000,,Suena antimundo.
+Dialogue: 0,0:01:23.22,0:01:27.65,Gen_Italics,OP Lyrics,0000,0000,0000,,La salida. ¿O qué te crees?
+Dialogue: 0,0:01:27.81,0:01:29.95,Gen_Italics,OP Lyrics,0000,0000,0000,,La ecuación del espejo.
+Dialogue: 0,0:01:30.11,0:01:34.32,Gen_Italics,OP Lyrics,0000,0000,0000,,Despierta, ya no puedo ni pensar.
+Dialogue: 0,0:01:34.49,0:01:36.58,Gen_Italics,OP Lyrics,0000,0000,0000,,Una elegante PSYCHO:LOGY.
+Dialogue: 0,0:01:36.74,0:01:41.00,Gen_Italics,OP Lyrics,0000,0000,0000,,La salida. ¿Qué puedes ver?
+Dialogue: 0,0:01:41.16,0:01:44.21,Gen_Italics,OP Lyrics,0000,0000,0000,,Un exceso de ironía.
+Dialogue: 0,0:01:48.71,0:01:53.09,Cart_A_Tim,Sign,0000,0000,0000,,{\p1\shad0\bord3.5\fad(100,0)\an8\pos(320,70)\3c&HFFFFFF&}m 0 0 l 302 0 302 26 0 26{\p0}
+Dialogue: 0,0:01:48.71,0:01:53.09,Cart_A_Tim,Sign,0000,0000,0000,,{\p1\shad0\bord1.5\fad(100,0)\an8\pos(320,70)}m 0 0 l 302 0 302 26 0 26{\p0}
+Dialogue: 0,0:01:48.71,0:01:53.09,Cart_A_Tim,Sign,0000,0000,0000,,{\3c&HFFFFFF&\shad0\fad(100,0)\an2\b0\bord0\fs18\fnTimes New Roman\c&H000000&\pos(320,91)}\hSegunda temporada de la serie de animación\h
+Dialogue: 0,0:01:53.09,0:01:57.09,Cart_A_Tre,Sign,0000,0000,0000,,{\bord0\an2\pos(320,290)\c&H000000&\b1}Por: Toshiyuki Aoyama
+Dialogue: 0,0:02:01.93,0:02:03.10,Gen_Main,Popuko,0000,0000,0000,,¿Eh?
+Dialogue: 0,0:02:03.26,0:02:04.86,Gen_Main,Popuko,0000,0000,0000,,Pipimi…
+Dialogue: 0,0:02:08.23,0:02:10.50,Gen_Main,Popuko,0000,0000,0000,,Acaríciame la cabecita.
+Dialogue: 0,0:02:10.65,0:02:11.63,Gen_Main,Pipimi,0000,0000,0000,,Bien.
+Dialogue: 0,0:02:12.48,0:02:15.36,Gen_Main,Popuko,0000,0000,0000,,No, hazlo con más ganas.
+Dialogue: 0,0:02:19.45,0:02:22.22,Gen_Main,Pipimi,0000,0000,0000,,¡Finger!
+Dialogue: 0,0:02:23.66,0:02:25.01,Gen_Main,Popuko,0000,0000,0000,,Eres tonta.
+Dialogue: 0,0:02:24.20,0:02:27.20,Cart_A_Tre,Sign,0000,0000,0000,,{\bord0\an2\pos(320,290)\c&H000000&\b1}Por: Kamikaze Douga
+Dialogue: 0,0:02:27.20,0:02:29.08,Gen_Main,Pipimi,0000,0000,0000,,Vamos, abre la boquita.
+Dialogue: 0,0:02:46.47,0:02:51.19,Cart_A_Ari,Sign,0000,0000,0000,,{\q2\c&HF8E8E7&\an2\fscy140\fscx97\3c&H26261D&\bord2\4c&H263D9F&\shad1.5\fs22\pos(320,278.5)}¡Que me la estás metiendo entre las encías y los dientes!
+Dialogue: 0,0:02:51.19,0:02:54.19,Cart_A_Tre,Sign,0000,0000,0000,,{\bord0\an2\pos(320,290)\c&H000000&\b1}Por: Kamikaze Douga
+Dialogue: 0,0:02:51.65,0:02:54.19,Gen_Main,Popuko,0000,0000,0000,,Pop Team Epic.
+Dialogue: 0,0:02:54.36,0:02:55.48,Gen_Main,Guy,0000,0000,0000,,¡Una discusión!
+Dialogue: 0,0:02:55.65,0:02:58.07,Gen_Main,Guy,0000,0000,0000,,¡Zanjemos esto con una discusión!
+Dialogue: 0,0:02:58.24,0:03:01.28,Gen_Main,Popuko,0000,0000,0000,,¿Una discusión? Qué absurdo.
+Dialogue: 0,0:03:01.61,0:03:04.33,Gen_Main,Popuko,0000,0000,0000,,¿No prefieres la pacífica violencia?
+Dialogue: 0,0:03:04.49,0:03:07.12,Gen_Main,Guy,0000,0000,0000,,¡¿Violencia?!
+Dialogue: 0,0:03:07.29,0:03:09.88,Gen_Main,Guy,0000,0000,0000,,¡No a la violencia!\N¡No te atreves a discutir!
+Dialogue: 0,0:03:08.45,0:03:09.04,Cart_Basic,SFX,0000,0000,0000,,{\fnComic Sans MS\fs30\c&H281194&\3c&H000300&\bord3\frz25.07\pos(301.5,105.5)}Rancio
+Dialogue: 0,0:03:08.62,0:03:09.21,Cart_Basic,SFX,0000,0000,0000,,{\fnComic Sans MS\fs30\c&H281194&\3c&H000300&\bord3\frz329.7\pos(561,140)}Rancio
+Dialogue: 0,0:03:08.87,0:03:09.46,Cart_Basic,SFX,0000,0000,0000,,{\fnComic Sans MS\fs30\c&H281194&\3c&H000300&\bord3\pos(303.5,243.5)\frz343.6}Rancio
+Dialogue: 0,0:03:09.25,0:03:09.75,Cart_Basic,SFX,0000,0000,0000,,{\fnComic Sans MS\fs30\c&H8B2872&\3c&H000300&\bord3\frz330.7\pos(567.5,156)}Bronca
+Dialogue: 0,0:03:09.58,0:03:10.00,Cart_Basic,SFX,0000,0000,0000,,{\fnComic Sans MS\fs30\c&H8B2872&\3c&H000300&\bord3\pos(543,73.5)\frz333.7}Bronca
+Dialogue: 0,0:03:09.91,0:03:10.25,Cart_Basic,SFX,0000,0000,0000,,{\fnComic Sans MS\fs30\c&H8B2872&\3c&H000300&\bord3\pos(336,230.5)\frz23.46}Bronca
+Dialogue: 0,0:03:10.04,0:03:12.83,Gen_Main,Guy,0000,0000,0000,,¿Violencia pacífica?\N¡No tiene sentido! ¡Agh!
+Dialogue: 0,0:03:10.12,0:03:10.62,Cart_Basic,SFX,0000,0000,0000,,{\fnComic Sans MS\fs30\c&H8B2872&\3c&H000300&\bord3\frz19.03\pos(289.5,59.5)}Bronca
+Dialogue: 0,0:03:10.46,0:03:10.87,Cart_Basic,SFX,0000,0000,0000,,{\fnComic Sans MS\fs30\c&H8B2872&\3c&H000300&\bord3\frz19.03\pos(366.5,66)}Bronca
+Dialogue: 0,0:03:10.75,0:03:11.00,Cart_Basic,SFX,0000,0000,0000,,{\fnComic Sans MS\fs30\c&H8B2872&\3c&H000300&\bord3\frz338.1\pos(571,267)}Bronca
+Dialogue: 0,0:03:11.12,0:03:11.71,Cart_Basic,SFX,0000,0000,0000,,{\fnComic Sans MS\fs30\c&H281194&\3c&H000300&\bord3\frz7.278\pos(316,107)}Rancio
+Dialogue: 0,0:03:11.25,0:03:11.92,Cart_Basic,SFX,0000,0000,0000,,{\fnComic Sans MS\fs30\c&H281194&\3c&H000300&\bord3\frz328\pos(567.5,127)}Rancio
+Dialogue: 0,0:03:11.37,0:03:11.79,Cart_Basic,SFX,0000,0000,0000,,{\fnComic Sans MS\fs30\c&H281194&\3c&H000300&\bord3\frz31.8\pos(396.5,238)}Rancio
+Dialogue: 0,0:03:11.54,0:03:12.21,Cart_Basic,SFX,0000,0000,0000,,{\fnComic Sans MS\fs30\c&H281194&\3c&H000300&\bord3\frz332.7\pos(536.5,270.5)}Rancio
+Dialogue: 0,0:03:11.83,0:03:12.33,Cart_Basic,SFX,0000,0000,0000,,{\fnComic Sans MS\fs30\c&H8B2872&\3c&H000300&\bord3\pos(446,280.5)\frz29.31}Bronca
+Dialogue: 0,0:03:11.92,0:03:12.33,Cart_Basic,SFX,0000,0000,0000,,{\fnComic Sans MS\fs30\c&H8B2872&\3c&H000300&\bord3\pos(535,93)\frz323.3}Bronca
+Dialogue: 0,0:03:12.17,0:03:12.33,Cart_Basic,SFX,0000,0000,0000,,{\fnComic Sans MS\fs30\c&H8B2872&\3c&H000300&\bord3\frz8.902\pos(365.5,96)}Bronca
+Dialogue: 0,0:03:12.83,0:03:15.84,Cart_A_Tre,Sign,0000,0000,0000,,{\bord0\an2\pos(320,290)\c&H000000&\b1}Por: AC-bu
+Dialogue: 0,0:03:13.50,0:03:15.03,Gen_Main,Pipimi,0000,0000,0000,,Pop Team Epic.
+Dialogue: 0,0:03:16.00,0:03:18.23,Gen_Main,Guy,0000,0000,0000,,Bob Epic Team.
+Dialogue: 0,0:03:16.38,0:03:18.76,Cart_A_Tre,Sign,0000,0000,0000,,{\c&H73AD57&\fad(300,0)\fscy120\shad0\pos(338,101)}Bob Epic Team
+Dialogue: 0,0:03:17.42,0:03:18.76,Cart_A_Tre,Sign,0000,0000,0000,,{\i0\c&HFFFFFF&\fs16\blur2\3c&HCB44EC&\b0\pos(172,53)}Nueva sección{\i1\b1}
+Dialogue: 0,0:03:18.92,0:03:21.60,Gen_Main,Popuko,0000,0000,0000,,¡Un meteorito gigante!
+Dialogue: 0,0:03:22.51,0:03:25.22,Gen_Main,Popuko,0000,0000,0000,,¡Vaya, una maestra\Nde las técnicas de patadas!
+Dialogue: 0,0:03:22.76,0:03:27.01,Cart_Basic,Sign,0000,0000,0000,,{\fnVerdana\fs12\fscx60\fay0.3\c&H020302&\pos(506.5,147.5)\3c&HFFFFFF&}Pierna
+Dialogue: 0,0:03:27.18,0:03:30.52,Gen_Main,Popuko,0000,0000,0000,,¡No podrás con ese meteorito!
+Dialogue: 0,0:03:30.68,0:03:32.77,Gen_Main,Popuko,0000,0000,0000,,Pero ¡qué gran ángulo!
+Dialogue: 0,0:03:32.77,0:03:32.98,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(278,183)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:03:32.94,0:03:34.52,Gen_Main,Pipimi,0000,0000,0000,,¡Pierna!
+Dialogue: 0,0:03:33.10,0:03:33.31,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(278,183)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:03:33.44,0:03:33.65,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(278,183)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:03:33.77,0:03:33.98,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(278,183)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:03:34.10,0:03:34.31,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(278,183)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:03:34.44,0:03:34.52,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(278,183)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:03:34.52,0:03:36.32,Gen_Main,Popuko,0000,0000,0000,,¡Un gran, gran ángulo!
+Dialogue: 0,0:03:36.32,0:03:36.52,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\move(189,126.5,194.66,129.52,21,187)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:03:36.65,0:03:36.82,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\move(203,132.5,207.28,134.76,24,149)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:03:36.94,0:03:37.11,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\move(209,135.5,213.28,137.76,26,151)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:03:37.23,0:03:37.40,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\move(216,141.5,220.28,143.76,28,153)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:03:37.52,0:03:37.73,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\move(228,147.5,233.66,150.52,30,197)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:03:37.82,0:03:37.86,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(234,150.5)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:03:37.86,0:03:37.90,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(236,151.5)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:03:37.90,0:03:38.90,Gen_Main,Popuko,0000,0000,0000,,¡Es impresionante!
+Dialogue: 0,0:03:38.90,0:03:39.07,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\fs32\pos(219.5,254.5)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:03:39.11,0:03:39.24,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\fs32\pos(219.5,254.5)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:03:39.32,0:03:39.44,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\fs32\pos(219.5,254.5)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:03:39.40,0:03:42.07,Gen_Main,Popuko,0000,0000,0000,,¡Un gran ángulo!
+Dialogue: 0,0:03:39.53,0:03:39.61,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\fs32\pos(219.5,254.5)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:03:39.61,0:03:39.82,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\fs28\move(184.5,131.5,197.68,138.2,26,192)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:03:39.94,0:03:40.11,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\fs28\move(210,144.5,219.87,149.54,29,154)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:03:40.24,0:03:40.28,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\fs28\pos(233.5,156.5)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:03:40.28,0:03:40.44,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\fs10\move(165,20.5,180.15,29.29,23,148)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:03:40.28,0:03:40.44,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(325,189.5)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:03:40.49,0:03:40.61,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\fs10\move(190,34.5,199.95,40.19,21,105)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:03:40.49,0:03:40.61,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(325,189.5)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:03:40.69,0:03:40.82,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\fs10\move(216,49,225.95,54.69,30,113)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:03:40.69,0:03:40.82,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(325,189.5)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:03:40.90,0:03:41.03,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\fs10\move(241,63.5,250.95,69.19,29,112)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:03:40.90,0:03:41.03,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(325,189.5)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:03:41.11,0:03:41.24,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\fs10\move(267,78,276.95,83.69,27,111)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:03:41.11,0:03:41.24,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(325,189.5)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:03:41.32,0:03:41.45,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\fs10\move(292,92,301.95,97.69,26,109)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:03:41.32,0:03:41.45,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(325,189.5)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:03:41.49,0:03:41.65,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\fs10\move(313,104,328.16,112.79,22,148)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:03:41.49,0:03:41.65,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(325,189.5)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:03:41.70,0:03:41.82,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\fs10\move(338,118,347.95,123.69,21,104)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:03:41.70,0:03:41.82,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(325,189.5)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:03:41.90,0:03:42.03,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\fs10\move(363,132.5,372.95,138.19,30,113)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:03:41.90,0:03:42.03,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(325,189.5)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:03:42.07,0:03:42.24,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(220.5,242.5)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:03:42.20,0:03:42.24,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(97.5,15.5)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:03:42.24,0:03:45.87,Gen_Main,Popuko,0000,0000,0000,,¡Rayos, era un gran ángulo!
+Dialogue: 0,0:03:42.28,0:03:42.40,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(261,100)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:03:42.28,0:03:42.40,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(283,269)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:03:42.49,0:03:42.61,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(261,100)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:03:42.49,0:03:42.61,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(283,269)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:03:42.70,0:03:42.82,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(261,100)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:03:42.70,0:03:42.82,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(283,269)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:03:42.91,0:03:43.03,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(261,100)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:03:42.91,0:03:43.03,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(283,269)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:03:43.11,0:03:43.24,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(261,100)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:03:43.11,0:03:43.24,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(283,269)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:03:43.28,0:03:43.45,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(261,100)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:03:43.28,0:03:43.45,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(283,269)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:03:43.49,0:03:43.61,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(261,100)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:03:43.49,0:03:43.61,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(283,269)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:03:43.70,0:03:43.82,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(261,100)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:03:43.70,0:03:43.82,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(283,269)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:03:43.91,0:03:44.03,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(261,100)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:03:43.91,0:03:44.03,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(283,269)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:03:44.11,0:03:44.24,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(261,100)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:03:44.11,0:03:44.24,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(283,269)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:03:44.32,0:03:44.45,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(261,100)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:03:44.32,0:03:44.45,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(283,269)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:03:44.49,0:03:44.66,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(261,100)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:03:44.49,0:03:44.66,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(283,269)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:03:44.70,0:03:44.82,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(261,100)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:03:44.70,0:03:44.82,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(283,269)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:03:44.91,0:03:45.03,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(261,100)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:03:44.91,0:03:45.03,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(283,269)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:03:45.12,0:03:45.24,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(261,100)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:03:45.12,0:03:45.24,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(283,269)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:03:45.32,0:03:45.45,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(261,100)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:03:45.32,0:03:45.45,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(283,269)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:03:45.53,0:03:45.66,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(261,100)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:03:45.53,0:03:45.66,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(283,269)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:03:45.70,0:03:45.87,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(261,100)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:03:45.70,0:03:45.87,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(283,269)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:03:45.87,0:03:48.87,Cart_A_Tre,Sign,0000,0000,0000,,{\bord0\an2\pos(320,290)\c&H000000&\b1}Por: Kazuki Sekiguchi
+Dialogue: 0,0:03:46.03,0:03:48.26,Gen_Main,Popuko,0000,0000,0000,,Pop Team Epic.
+Dialogue: 0,0:03:48.87,0:03:57.09,Cart_Basic,Sign,0000,0000,0000,,{\c&HF24A36&\fnVerdana\bord0\b1\fs22\pos(320,192)\t(3445,4071,\c&H5771EE&)}Pop Team Cooking
+Dialogue: 0,0:03:53.75,0:03:56.33,Gen_Main,Popuko and Pipimi,0000,0000,0000,,¡Pop Team Cooking!
+Dialogue: 0,0:03:57.88,0:04:00.86,Gen_Main,Assistant,0000,0000,0000,,Bienvenidos a otro episodio\Nde Pop Team Cooking.
+Dialogue: 0,0:04:01.01,0:04:03.31,Gen_Main,Pipimi,0000,0000,0000,,Hoy haremos cocina oscura.
+Dialogue: 0,0:04:03.47,0:04:06.43,Gen_Main,Assistant,0000,0000,0000,,¿Cocina oscura? ¿Cómo es eso?
+Dialogue: 0,0:04:06.60,0:04:10.39,Gen_Main,Pipimi,0000,0000,0000,,Haremos una rosa con carne especial,\Nal estilo cementerio.
+Dialogue: 0,0:04:10.56,0:04:12.22,Gen_Main,Assistant,0000,0000,0000,,¿Y qué ingredientes usaremos?
+Dialogue: 0,0:04:12.39,0:04:14.34,Gen_Main,Pipimi,0000,0000,0000,,Este es el plato ya completo.
+Dialogue: 0,0:04:15.19,0:04:16.90,Cart_Basic,Sign,0000,0000,0000,,{\fad(482,1)\fs26\b1\bord2\pos(546,253.5)}Fin
+Dialogue: 0,0:04:16.90,0:04:19.90,Cart_A_Tre,Sign,0000,0000,0000,,{\bord0\an2\pos(320,290)\c&H000000&\b1}Por: K-ko Matsuda
+Dialogue: 0,0:04:17.36,0:04:19.90,Gen_Main,Pipimi,0000,0000,0000,,¡Pop Team Epic!
+Dialogue: 0,0:04:20.73,0:04:22.90,Gen_Main,Pipimi,0000,0000,0000,,Por mi comienza el nuevo segmento…
+Dialogue: 0,0:04:23.07,0:04:24.41,Gen_Main,Popuko,0000,0000,0000,,…que todos esperaban.
+Dialogue: 0,0:04:26.12,0:04:28.61,Gen_Main,Popuko and Pipimi,0000,0000,0000,,{\i1}Pop Team Epic B-Side.{\i0}
+Dialogue: 0,0:04:31.08,0:04:32.26,Gen_Main,Popuko,0000,0000,0000,,¡Pipihara!
+Dialogue: 0,0:04:33.87,0:04:35.07,Gen_Main,Popuko,0000,0000,0000,,Pipihara…
+Dialogue: 0,0:04:35.25,0:04:37.50,Gen_Main,Popuko,0000,0000,0000,,Mira, quiero darte una cosa.
+Dialogue: 0,0:04:38.88,0:04:41.17,Gen_Main,Popuko,0000,0000,0000,,Arroz gapao.
+Dialogue: 0,0:04:41.62,0:04:42.93,Gen_Main,Pipimi,0000,0000,0000,,Popuoka…
+Dialogue: 0,0:04:44.59,0:04:46.54,Gen_Main,Pipimi,0000,0000,0000,,La verdad es que ya tengo…
+Dialogue: 0,0:04:47.85,0:04:49.93,Gen_Main,Pipimi,0000,0000,0000,,Arroz gapao.
+Dialogue: 0,0:04:50.43,0:04:53.05,Gen_Main,Popuko and Pipimi,0000,0000,0000,,{\i1}Pop Team Epic B-Side.{\i0}
+Dialogue: 0,0:04:53.98,0:04:56.98,Gen_Main,Popuko,0000,0000,0000,,Pop Team Epic.
+Dialogue: 0,0:04:53.98,0:04:56.98,Cart_A_Tre,Sign,0000,0000,0000,,{\bord0\an2\pos(320,290)\c&H000000&\b1}Por: Junichi Yamamoto
+Dialogue: 0,0:04:57.15,0:05:00.82,Gen_Main,Pipimi Narration,0000,0000,0000,,Los mosquitos hicieron sufrir al hombre\Ndurante toda su historia.
+Dialogue: 0,0:05:01.04,0:05:07.07,Gen_Main,Pipimi Narration,0000,0000,0000,,Pero la humanidad usó su inteligencia\Npara crear un arma para contraatacar.
+Dialogue: 0,0:05:07.24,0:05:09.16,Gen_Main,Pipimi Narration,0000,0000,0000,,Es la única esperanza de la humanidad…
+Dialogue: 0,0:05:10.20,0:05:12.68,Gen_Main,Pipimi Narration,0000,0000,0000,,¡Earth No-Mat!
+Dialogue: 0,0:05:11.66,0:05:13.62,Cart_Basic,Sign,0000,0000,0000,,{\an5\fscy10\t(26,610,\fscy100)\c&H010902&\3c&HFEFDF9&\b1\bord2\blur2\pos(502,75)\fscx80}Erradicador de Mosquitos Terrestre\N{\fs36\fax-0.2\c&H210ABC&\3c&H8CC1F3&\bord2\shad3\blur0}Earth No-Mat
+Dialogue: 0,0:05:12.12,0:05:13.62,Cart_Basic,Sign,0000,0000,0000,,{\fad(233,1)\bord0\pos(78,79)}Nueva serie
+Dialogue: 0,0:05:13.62,0:05:15.25,Gen_Main,Popuko,0000,0000,0000,,¿No es un buen material?
+Dialogue: 0,0:05:13.62,0:05:15.46,Cart_Basic,Sign,0000,0000,0000,,{\fs10\pos(237,84)\bord0}Nueva serie
+Dialogue: 0,0:05:13.62,0:05:15.46,Cart_Basic,Sign,0000,0000,0000,,{\fs12\c&H010902&\3c&HFEFDF9&\bord1.5\blur1\pos(442,93)\clip(m 443 121 l 444 113 456 108 452 94 455 81 460 73 466 68 481 65 514 81 518 42 362 50 394 101)\fscx80}Erradicador de Mosquitos Terrestre\N{\fs18\fax-0.2\c&H210ABC&\3c&H8CC1F3&\bord1.5\shad1.5\blur0}Earth No-Mat
+Dialogue: 0,0:05:15.46,0:05:16.92,Gen_Main,Middle-aged boss-type guy,0000,0000,0000,,Qué tontería.
+Dialogue: 0,0:05:17.12,0:05:19.88,Gen_Main,Middle-aged boss-type guy,0000,0000,0000,,¿Quién se tomaría en serio\Nun repelente de insectos?
+Dialogue: 0,0:05:23.71,0:05:25.48,Gen_Main,Middle-aged boss-type guy,0000,0000,0000,,¡Mosquito!
+Dialogue: 0,0:05:25.63,0:05:27.60,Gen_Main,Popuko,0000,0000,0000,,¡No nos engañarás!
+Dialogue: 0,0:05:28.05,0:05:30.47,Cart_Basic,Sign,0000,0000,0000,,{\c&H0C00C9&\fs30\fax-0.2\pos(512,262.8)\3c&H6A5EF7&\bord1.5\shad1\4c&H070982&}Earth No-Mat
+Dialogue: 0,0:05:28.22,0:05:30.02,Gen_Main,Pipimi Narration,0000,0000,0000,,¡Earth No-Mat!
+Dialogue: 0,0:05:30.47,0:05:33.97,Cart_TitleEp,Sign,0000,0000,0000,,{\pos(320,230)\fs25}¡Vamos allá! \N¡Combinación enorme de narices!
+Dialogue: 0,0:05:30.47,0:05:33.97,Cart_Basic,Sign,0000,0000,0000,,{\bord0\an2\c&HFFFFFF&\b1\pos(320,315)}Por: ????
+Dialogue: 0,0:05:45.36,0:05:46.68,Gen_Main,Akashi Record,0000,0000,0000,,Pipimi…
+Dialogue: 0,0:05:46.86,0:05:52.49,Gen_Main,Akashi Record,0000,0000,0000,,¿Esto es fruto de esas capacidades\Nsupuestamente infinitas
+Dialogue: 0,0:05:52.66,0:05:54.19,Gen_Main,Akashi Record,0000,0000,0000,,que poseen los humanos?
+Dialogue: 0,0:05:55.50,0:05:57.94,Gen_Main,Mecha Pipimi,0000,0000,0000,,No perderé… ¡No puedo perder!
+Dialogue: 0,0:05:58.17,0:06:00.09,Gen_Main,Mecha Pipimi,0000,0000,0000,,¡Lucho por el futuro del planeta!
+Dialogue: 0,0:06:17.31,0:06:18.53,Gen_Main,Akashi Record,0000,0000,0000,,¡Atenta!
+Dialogue: 0,0:06:19.19,0:06:21.43,Gen_Main,King Recorder,0000,0000,0000,,¡Evolucionaré…
+Dialogue: 0,0:06:22.90,0:06:26.61,Gen_Main,King Recorder,0000,0000,0000,,una vez más!
+Dialogue: 0,0:06:29.41,0:06:30.53,Gen_Main,Mecha Pipimi,0000,0000,0000,,¡No puede ser!
+Dialogue: 0,0:06:30.99,0:06:33.40,Gen_Main,King Recorder,0000,0000,0000,,¡Me llamo King Recorder!
+Dialogue: 0,0:06:37.25,0:06:38.70,Gen_Main,King Recorder,0000,0000,0000,,Necias.
+Dialogue: 0,0:06:38.87,0:06:40.85,Gen_Main,King Recorder,0000,0000,0000,,Mientras ustedes holgazaneaban,
+Dialogue: 0,0:06:41.00,0:06:46.71,Gen_Main,King recorder,0000,0000,0000,,¡yo no paré de publicar éxitos\Nuno tras otro en otros medios!
+Dialogue: 0,0:06:54.05,0:06:55.56,Gen_Main,Sushi Pipimi,0000,0000,0000,,Popu.
+Dialogue: 0,0:06:56.43,0:06:59.12,Gen_Main,Sushi Pipimi,0000,0000,0000,,Si vuelvo con vida…
+Dialogue: 0,0:07:00.56,0:07:01.79,Gen_Main,Sushi Pipimi,0000,0000,0000,,Entonces…
+Dialogue: 0,0:07:06.28,0:07:07.51,Gen_Main,Sushi Popuko,0000,0000,0000,,Pipimi.
+Dialogue: 0,0:07:20.29,0:07:22.55,Gen_Main,King Recorder,0000,0000,0000,,¡Te reduciré a cenizas!
+Dialogue: 0,0:07:35.18,0:07:37.09,Gen_Main,Sushi Popuko,0000,0000,0000,,¡Pipimi!
+Dialogue: 0,0:07:38.60,0:07:40.59,Gen_Main,King Recorder,0000,0000,0000,,Ahora que me libré de ella,
+Dialogue: 0,0:07:41.19,0:07:43.36,Gen_Main,King Recorder,0000,0000,0000,,¡crearé un comité
+Dialogue: 0,0:07:43.52,0:07:47.38,Gen_Main,King Recorder,0000,0000,0000,,y subcontrataré una y otra vez!
+Dialogue: 0,0:07:52.32,0:07:53.45,Gen_Main,Sushi Popuko,0000,0000,0000,,¡No!
+Dialogue: 0,0:07:53.61,0:07:57.49,Gen_Main,Sushi Popuko,0000,0000,0000,,Pop Team Epic debe tener\Nun solo patrocinador para ser libre.
+Dialogue: 0,0:07:58.66,0:08:01.12,Gen_Main,Sushi Pipimi,0000,0000,0000,,Si vuelvo con vida…
+Dialogue: 0,0:08:01.87,0:08:03.34,Gen_Main,Sushi Pipimi,0000,0000,0000,,Presionaremos a Obari.
+Dialogue: 0,0:08:04.33,0:08:09.09,Gen_Main,Sushi Popuko,0000,0000,0000,,¿De verdad le daremos\Nmás trabajo a Obari?
+Dialogue: 0,0:08:12.67,0:08:13.74,Gen_Main,Sushi Popuko,0000,0000,0000,,Esto es…
+Dialogue: 0,0:08:22.73,0:08:23.85,Gen_Main,Mecha Pipimi,0000,0000,0000,,Po…
+Dialogue: 0,0:08:24.27,0:08:25.49,Gen_Main,Mecha Pipimi,0000,0000,0000,,¡Popu!
+Dialogue: 0,0:08:27.90,0:08:28.92,Gen_Main,King Recorder,0000,0000,0000,,¡Necias!
+Dialogue: 0,0:08:29.07,0:08:32.53,Gen_Main,King Recorder,0000,0000,0000,,¿Cómo se atreven a encarecer\Nla producción a estas alturas?
+Dialogue: 0,0:08:33.40,0:08:34.98,Gen_Main,Mecha Popuko,0000,0000,0000,,¿Encarecer la producción?
+Dialogue: 0,0:08:36.28,0:08:40.04,Gen_Main,Mecha Popuko,0000,0000,0000,,¿Te crees que esto es el final?
+Dialogue: 0,0:08:42.16,0:08:43.74,Gen_Main,Mecha Popuko,0000,0000,0000,,¡Vamos allá, Pipimi!
+Dialogue: 0,0:08:43.91,0:08:46.21,Gen_Main,Mecha Pipimi,0000,0000,0000,,¡Combinemos nuestros poderes!
+Dialogue: 0,0:09:00.01,0:09:04.86,Gen_Main,Great Bari Bari Team Epic,0000,0000,0000,,¡Combinación superenorme!\N¡Great Baribari Team Epic!
+Dialogue: 0,0:09:05.48,0:09:08.00,Gen_Main,King Recorder,0000,0000,0000,,¿Qué? ¿Cómo osan…?
+Dialogue: 0,0:09:08.48,0:09:12.11,Gen_Main,King Recorder,0000,0000,0000,,¡No puede ser!\N¡Todo el poder que tenía!
+Dialogue: 0,0:09:12.28,0:09:18.08,Gen_Main,King Recorder,0000,0000,0000,,¡Mis beneficios por mi gran contenido\Nestán desapareciendo!
+Dialogue: 0,0:09:18.24,0:09:19.76,Gen_Main,Great Bari Bari Team Epic,0000,0000,0000,,¡King Recorder!
+Dialogue: 0,0:09:19.91,0:09:24.96,Gen_Main,Great Bari Bari Team Epic,0000,0000,0000,,¡Te chupamos la energía presupuestaria\Ncon nuestro Manga Ridículo Drive,
+Dialogue: 0,0:09:25.37,0:09:28.75,Gen_Main,Great Bari Bari Team Epic,0000,0000,0000,,para convertirla en Energía Obari!
+Dialogue: 0,0:09:28.92,0:09:31.92,Gen_Main,King Recorder,0000,0000,0000,,¡Maldito Great Baribari Team Epic!
+Dialogue: 0,0:09:33.42,0:09:34.80,Gen_Main,Mecha Pipimi,0000,0000,0000,,¡Esto es…!
+Dialogue: 0,0:09:34.97,0:09:35.97,Gen_Main,Mecha Popuko,0000,0000,0000,,¡El fin!
+Dialogue: 0,0:09:37.55,0:09:41.18,Gen_Main,Great Bari Bari Team Epic,0000,0000,0000,,¡Cañón de Mierda! ¡Potencia total!
+Dialogue: 0,0:09:46.06,0:09:50.15,Gen_Main,King Recorder,0000,0000,0000,,¡Necias insolentes!\N¡No son más que unas…!
+Dialogue: 0,0:09:57.15,0:09:59.11,Gen_Main,Great Bari Bari Team Epic,0000,0000,0000,,¡Desaparece, perdedor!
+Dialogue: 0,0:09:59.28,0:10:03.36,Gen_Italics,Nar,0000,0000,0000,,Y así volvió la paz a Pop Team Epic.
+Dialogue: 0,0:10:04.16,0:10:11.84,Gen_Italics,,0000,0000,0000,,Vamos a jugar con nuestros deditos.
+Dialogue: 0,0:10:12.00,0:10:19.13,Gen_Italics,,0000,0000,0000,,Solo necesitas un dedito.
+Dialogue: 0,0:10:19.30,0:10:26.89,Gen_Italics,,0000,0000,0000,,Uno más uno son dos.
+Dialogue: 0,0:10:27.06,0:10:33.77,Gen_Italics,,0000,0000,0000,,Vamos, hagamos esto juntas.
+Dialogue: 0,0:10:33.94,0:10:41.28,Gen_Italics,,0000,0000,0000,,Solo somos dos guisantes, solo somos\Ndos guisantes, guisantes, gui, gui, gui.
+Dialogue: 0,0:10:41.45,0:10:48.79,Gen_Italics,,0000,0000,0000,,Solo somos dos guisantes, solo somos\Ndos guisantes, guisantes, gui, gui, gui.
+Dialogue: 0,0:10:48.96,0:10:56.50,Gen_Italics,,0000,0000,0000,,Solo somos dos guisantes, solo somos\Ndos guisantes, guisantes, gui, gui, gui.
+Dialogue: 0,0:10:56.67,0:11:03.93,Gen_Italics,,0000,0000,0000,,No me seas infiel.
+Dialogue: 0,0:11:04.68,0:11:07.64,Cart_Basic,Sign,0000,0000,0000,,{\fad(567,1)\q2\bord1\fnVerdana\blur0.4\b1\fscx80\pos(326,112)\fs16}Este era el episodio final de "Superhéroe del Presupuesto Great Baribari Team Epic".\NGracias por vernos.
+Dialogue: 0,0:11:07.64,0:11:10.53,Gen_Main,Pipimi,0000,0000,0000,,Gracias por comprar Pop Team Epic.
+Dialogue: 0,0:11:07.64,0:11:50.02,Cart_Basic,Sign,0000,0000,0000,,{\c&HF345D8&\3c&HFCFFFF&\bord2\fnComic Sans MS\4c&H986688&\shad1.5\pos(98,85)}¡{\c&HDCB03E&}Esta {\c&H08E1E1&}serie {\c&H140AD3&}de {\c&H39A741&}mier{\c&HEF0818&}da{\c&H0388FF&}!
+Dialogue: 0,0:11:07.64,0:11:50.02,Cart_Basic,Sign,0000,0000,0000,,{\3c&H518334&\c&HDDFFFF&\shad1\fs18\fscx90\blur1\b1\pos(493,267)\shad0\4c&H68586B&}¿Comprarás el BD\Nde Pop Team Epic 2?{\b0}
+Dialogue: 0,0:11:10.69,0:11:13.04,Gen_Main,Popuko,0000,0000,0000,,Espera, que esto\Nse puede ver en {\i1}streaming{\i0}.
+Dialogue: 0,0:11:13.19,0:11:15.61,Gen_Main,Popuko,0000,0000,0000,,Es más, ¿alguien lo compra?
+Dialogue: 0,0:11:15.77,0:11:17.65,Gen_Main,Popuko,0000,0000,0000,,Que se gasten el dinero en ****lt.
+Dialogue: 0,0:11:17.90,0:11:19.57,Gen_Main,Pipimi,0000,0000,0000,,¡Popu! ¡No digas eso!
+Dialogue: 0,0:11:19.74,0:11:22.48,Gen_Main,Popuko,0000,0000,0000,,Pero si el ****lt sienta bien\Ny sale mejor de precio.
+Dialogue: 0,0:11:22.66,0:11:23.99,Gen_Main,Pipimi,0000,0000,0000,,¡Pues sí! ¡Espera!
+Dialogue: 0,0:11:24.16,0:11:25.48,Gen_Main,Popuko,0000,0000,0000,,Vaya, si hay mil.
+Dialogue: 0,0:11:25.66,0:11:27.93,Gen_Main,Pipimi,0000,0000,0000,,-No mientas, ¿eh?\N-Que no. Es cierto.
+Dialogue: 0,0:11:28.16,0:11:29.25,Gen_Main,Pipimi,0000,0000,0000,,Bueno, supongo.
+Dialogue: 0,0:11:29.41,0:11:30.61,Gen_Main,Popuko,0000,0000,0000,,Oye, Pipimi.
+Dialogue: 0,0:11:30.79,0:11:32.82,Gen_Main,Popuko,0000,0000,0000,,Lo que te ibas a gastar en PTE2…
+Dialogue: 0,0:11:33.00,0:11:34.05,Gen_Main,Popuko,0000,0000,0000,,¿Qué es PTE2?
+Dialogue: 0,0:11:34.21,0:11:37.68,Gen_Main,Popuko,0000,0000,0000,,-En fin, ¿en qué te lo gastarás?\N-¡En una isla!
+Dialogue: 0,0:11:38.67,0:11:39.88,Gen_Main,Popuko,0000,0000,0000,,¿No vas a comprar PTE?
+Dialogue: 0,0:11:40.05,0:11:43.68,Gen_Main,Pipimi,0000,0000,0000,,De eso ni hablar.\NQue me envíen una copia a la agencia.
+Dialogue: 0,0:11:44.14,0:11:46.60,Gen_Main,Popuko,0000,0000,0000,,Claro, la ventaja\Nde trabajar en la serie.
+Dialogue: 0,0:11:46.76,0:11:49.64,Gen_Main,Pipimi,0000,0000,0000,,-No, a la isla. Envíenmela a la isla.\N-¿La isla?
+Dialogue: 0,0:11:50.02,0:11:53.02,Cart_A_Tre,Sign,0000,0000,0000,,{\bord0\an2\pos(320,290)\c&H000000&\b1}Por: Space Neko Company{\b0}
+Dialogue: 0,0:11:50.02,0:11:55.02,Cart_A_Tre,Sign,0000,0000,0000,,{\fad(0,500)\an8\shad0\fs18\pos(562,48)\b0\3c&H373739&}Reemisión{\b1}
+Dialogue: 0,0:11:50.52,0:11:52.50,Gen_Main,Pipimi,0000,0000,0000,,Pop Team Epic.
+Dialogue: 0,0:11:53.81,0:11:55.52,Gen_Main,Popuko,0000,0000,0000,,Adelante.
+Dialogue: 0,0:11:55.69,0:11:57.95,Gen_Main,Patron,0000,0000,0000,,Por favor, córtele el pelo\Na mi pequeñín.
+Dialogue: 0,0:11:58.11,0:11:59.21,Gen_Main,Popuko,0000,0000,0000,,Claro.
+Dialogue: 0,0:12:05.28,0:12:07.04,Gen_Main,Popuko,0000,0000,0000,,Rayos. Qué fallo.
+Dialogue: 0,0:12:08.12,0:12:10.11,Gen_Main,Patron,0000,0000,0000,,¿Cómo va mi pequeñín?
+Dialogue: 0,0:12:10.79,0:12:12.21,Gen_Main,Popuko,0000,0000,0000,,Murió.
+Dialogue: 0,0:12:33.06,0:12:34.84,Gen_Italics,OP Lyrics,0000,0000,0000,,Encontró el camino al cielo.
+Dialogue: 0,0:12:35.02,0:12:36.47,Gen_Italics,OP Lyrics,0000,0000,0000,,Mi vida pasada contigo.
+Dialogue: 0,0:12:36.65,0:12:38.15,Gen_Italics,OP Lyrics,0000,0000,0000,,Viste los ojos del cielo.
+Dialogue: 0,0:12:38.32,0:12:39.84,Gen_Italics,OP Lyrics,0000,0000,0000,,Confesiones infinitas.
+Dialogue: 0,0:12:39.98,0:12:41.49,Gen_Italics,OP Lyrics,0000,0000,0000,,Estuve en el séptimo cielo.
+Dialogue: 0,0:12:41.65,0:12:43.07,Gen_Italics,OP Lyrics,0000,0000,0000,,El conflicto se acelera.
+Dialogue: 0,0:12:43.24,0:12:46.64,Gen_Italics,OP Lyrics,0000,0000,0000,,Por todos los cielos…\NTus motivos para vivir son abstractos.
+Dialogue: 0,0:12:46.83,0:12:49.58,Gen_Italics,OP Lyrics,0000,0000,0000,,Mira, cariño, qué peligro.
+Dialogue: 0,0:12:49.74,0:12:53.08,Gen_Italics,OP Lyrics,0000,0000,0000,,Muchísimos problemas,\Ncon tu cara de póker.
+Dialogue: 0,0:12:53.25,0:12:56.26,Gen_Italics,OP Lyrics,0000,0000,0000,,Mira, cariño, es ridículo.
+Dialogue: 0,0:12:56.42,0:13:00.05,Gen_Italics,OP Lyrics,0000,0000,0000,,La vida es como una burbuja\Nentre los sueños y la realidad.
+Dialogue: 0,0:13:00.46,0:13:05.06,Gen_Italics,OP Lyrics,0000,0000,0000,,¿Qué es lo que sientes?
+Dialogue: 0,0:13:05.22,0:13:07.56,Gen_Italics,OP Lyrics,0000,0000,0000,,Para siempre.
+Dialogue: 0,0:13:07.72,0:13:13.10,Gen_Italics,OP Lyrics,0000,0000,0000,,Suena antimundo.
+Dialogue: 0,0:13:13.27,0:13:17.69,Gen_Italics,OP Lyrics,0000,0000,0000,,La salida. ¿O qué te crees?
+Dialogue: 0,0:13:17.85,0:13:19.99,Gen_Italics,OP Lyrics,0000,0000,0000,,La ecuación del espejo.
+Dialogue: 0,0:13:20.15,0:13:24.36,Gen_Italics,OP Lyrics,0000,0000,0000,,Despierta, ya no puedo ni pensar.
+Dialogue: 0,0:13:24.53,0:13:26.62,Gen_Italics,OP Lyrics,0000,0000,0000,,Una elegante PSYCHO:LOGY.
+Dialogue: 0,0:13:26.78,0:13:31.04,Gen_Italics,OP Lyrics,0000,0000,0000,,La salida. ¿Qué puedes ver?
+Dialogue: 0,0:13:31.20,0:13:34.25,Gen_Italics,OP Lyrics,0000,0000,0000,,Un exceso de ironía.
+Dialogue: 0,0:13:38.75,0:13:43.13,Cart_A_Tim,Sign,0000,0000,0000,,{\p1\shad0\bord3.5\fad(100,0)\an8\pos(320,70)\3c&HFFFFFF&}m 0 0 l 302 0 302 26 0 26{\p0}
+Dialogue: 0,0:13:38.75,0:13:43.13,Cart_A_Tim,Sign,0000,0000,0000,,{\p1\shad0\bord1.5\fad(100,0)\an8\pos(320,70)}m 0 0 l 302 0 302 26 0 26{\p0}
+Dialogue: 0,0:13:38.75,0:13:43.13,Cart_A_Tim,Sign,0000,0000,0000,,{\3c&HFFFFFF&\shad0\fad(100,0)\an2\b0\bord0\fs18\fnTimes New Roman\c&H000000&\pos(320,91)}\hSegunda temporada de la serie de animación\h
+Dialogue: 0,0:13:43.13,0:13:47.13,Cart_A_Tre,Sign,0000,0000,0000,,{\bord0\an2\pos(320,290)\c&H000000&\b1}Por: Toshiyuki Aoyama
+Dialogue: 0,0:13:57.94,0:14:00.51,Gen_Main,Popuko,0000,0000,0000,,Acaríciame la cabecita.
+Dialogue: 0,0:14:00.69,0:14:01.76,Gen_Main,Pipimi,0000,0000,0000,,Bien.
+Dialogue: 0,0:14:02.52,0:14:05.40,Gen_Main,Popuko,0000,0000,0000,,No, hazlo con más ganas.
+Dialogue: 0,0:14:14.24,0:14:17.25,Gen_Main,Pipimi(?),0000,0000,0000,,Pop Team Epic.
+Dialogue: 0,0:14:14.24,0:14:17.25,Cart_A_Tre,Sign,0000,0000,0000,,{\bord0\an2\pos(320,290)\c&H000000&\b1}Por: Kamikaze Douga
+Dialogue: 0,0:14:17.41,0:14:19.12,Gen_Main,Pipimi,0000,0000,0000,,Vamos, abre la boquita.
+Dialogue: 0,0:14:24.78,0:14:25.79,Gen_Main,Pipimi,0000,0000,0000,,Toma.
+Dialogue: 0,0:14:26.76,0:14:28.54,Gen_Main,Pipimi,0000,0000,0000,,Toma.
+Dialogue: 0,0:14:28.72,0:14:33.14,Gen_Main,Pipimi,0000,0000,0000,,Toma.
+Dialogue: 0,0:14:36.39,0:14:39.48,Gen_Main,Popuko,0000,0000,0000,,¡Me la estás metiendo\Nentre las encías y los dientes!
+Dialogue: 0,0:14:39.64,0:14:41.23,Gen_Main,Popuko,0000,0000,0000,,¡Frotis interdental!
+Dialogue: 0,0:14:41.23,0:14:44.23,Cart_A_Tre,Sign,0000,0000,0000,,{\bord0\an2\pos(320,290)\c&H000000&\b1}Por: Kamikaze Douga
+Dialogue: 0,0:14:41.40,0:14:44.23,Gen_Main,Popuko,0000,0000,0000,,¡Pop Team Epic!
+Dialogue: 0,0:14:44.40,0:14:45.53,Gen_Main,Guy,0000,0000,0000,,¡Una discusión!
+Dialogue: 0,0:14:45.69,0:14:48.11,Gen_Main,Guy,0000,0000,0000,,¡Zanjemos esto con una discusión!
+Dialogue: 0,0:14:48.28,0:14:51.32,Gen_Main,Popuko,0000,0000,0000,,¿Una discusión? Qué absurdo.
+Dialogue: 0,0:14:51.95,0:14:54.37,Gen_Main,Popuko,0000,0000,0000,,¿No prefieres la pacífica violencia?
+Dialogue: 0,0:14:54.53,0:14:57.16,Gen_Main,Guy,0000,0000,0000,,¿Violencia?
+Dialogue: 0,0:14:57.33,0:14:59.92,Gen_Main,Guy,0000,0000,0000,,¡No a la violencia!\N¡No te atreves a discutir!
+Dialogue: 0,0:14:58.50,0:14:59.09,Cart_Basic,SFX,0000,0000,0000,,{\fnComic Sans MS\fs30\c&H281194&\3c&H000300&\bord3\frz25.07\pos(301.5,105.5)}Rancio
+Dialogue: 0,0:14:58.67,0:14:59.26,Cart_Basic,SFX,0000,0000,0000,,{\fnComic Sans MS\fs30\c&H281194&\3c&H000300&\bord3\frz329.7\pos(561,140)}Rancio
+Dialogue: 0,0:14:58.92,0:14:59.51,Cart_Basic,SFX,0000,0000,0000,,{\fnComic Sans MS\fs30\c&H281194&\3c&H000300&\bord3\pos(303.5,243.5)\frz343.6}Rancio
+Dialogue: 0,0:14:59.30,0:14:59.80,Cart_Basic,SFX,0000,0000,0000,,{\fnComic Sans MS\fs30\c&H8B2872&\3c&H000300&\bord3\frz330.7\pos(567.5,156)}Bronca
+Dialogue: 0,0:14:59.63,0:15:00.05,Cart_Basic,SFX,0000,0000,0000,,{\fnComic Sans MS\fs30\c&H8B2872&\3c&H000300&\bord3\pos(543,73.5)\frz333.7}Bronca
+Dialogue: 0,0:14:59.96,0:15:00.30,Cart_Basic,SFX,0000,0000,0000,,{\fnComic Sans MS\fs30\c&H8B2872&\3c&H000300&\bord3\pos(336,230.5)\frz23.46}Bronca
+Dialogue: 0,0:15:00.08,0:15:02.87,Gen_Main,Guy,0000,0000,0000,,¿Violencia pacífica?\N¡No tiene sentido! ¡Agh!
+Dialogue: 0,0:15:00.17,0:15:00.67,Cart_Basic,SFX,0000,0000,0000,,{\fnComic Sans MS\fs30\c&H8B2872&\3c&H000300&\bord3\frz19.03\pos(289.5,59.5)}Bronca
+Dialogue: 0,0:15:00.51,0:15:00.92,Cart_Basic,SFX,0000,0000,0000,,{\fnComic Sans MS\fs30\c&H8B2872&\3c&H000300&\bord3\frz19.03\pos(366.5,66)}Bronca
+Dialogue: 0,0:15:00.80,0:15:01.05,Cart_Basic,SFX,0000,0000,0000,,{\fnComic Sans MS\fs30\c&H8B2872&\3c&H000300&\bord3\frz338.1\pos(571,267)}Bronca
+Dialogue: 0,0:15:01.17,0:15:01.76,Cart_Basic,SFX,0000,0000,0000,,{\fnComic Sans MS\fs30\c&H281194&\3c&H000300&\bord3\frz7.278\pos(316,107)}Rancio
+Dialogue: 0,0:15:01.30,0:15:01.97,Cart_Basic,SFX,0000,0000,0000,,{\fnComic Sans MS\fs30\c&H281194&\3c&H000300&\bord3\frz328\pos(567.5,127)}Rancio
+Dialogue: 0,0:15:01.42,0:15:01.84,Cart_Basic,SFX,0000,0000,0000,,{\fnComic Sans MS\fs30\c&H281194&\3c&H000300&\bord3\frz31.8\pos(396.5,238)}Rancio
+Dialogue: 0,0:15:01.59,0:15:02.26,Cart_Basic,SFX,0000,0000,0000,,{\fnComic Sans MS\fs30\c&H281194&\3c&H000300&\bord3\frz332.7\pos(536.5,270.5)}Rancio
+Dialogue: 0,0:15:01.88,0:15:02.38,Cart_Basic,SFX,0000,0000,0000,,{\fnComic Sans MS\fs30\c&H8B2872&\3c&H000300&\bord3\pos(446,280.5)\frz29.31}Bronca
+Dialogue: 0,0:15:01.97,0:15:02.38,Cart_Basic,SFX,0000,0000,0000,,{\fnComic Sans MS\fs30\c&H8B2872&\3c&H000300&\bord3\pos(535,93)\frz323.3}Bronca
+Dialogue: 0,0:15:02.22,0:15:02.38,Cart_Basic,SFX,0000,0000,0000,,{\fnComic Sans MS\fs30\c&H8B2872&\3c&H000300&\bord3\frz8.902\pos(365.5,96)}Bronca
+Dialogue: 0,0:15:02.87,0:15:05.88,Cart_A_Tre,Sign,0000,0000,0000,,{\bord0\an2\pos(320,290)\c&H000000&\b1}Por: AC-bu
+Dialogue: 0,0:15:03.50,0:15:05.40,Gen_Main,Pipimi,0000,0000,0000,,Pop Team Epic.
+Dialogue: 0,0:15:06.05,0:15:08.27,Gen_Main,Guy,0000,0000,0000,,Bob Epic Team.
+Dialogue: 0,0:15:06.30,0:15:08.80,Cart_A_Tre,Sign,0000,0000,0000,,{\c&H73AD57&\fad(300,0)\fscy120\shad0\pos(338,101)}Bob Epic Team
+Dialogue: 0,0:15:07.46,0:15:08.80,Cart_A_Tre,Sign,0000,0000,0000,,{\i0\c&HFFFFFF&\fs16\blur2\3c&HCB44EC&\b0\pos(172,53)}Nueva sección{\i1\b1}
+Dialogue: 0,0:15:08.97,0:15:11.64,Gen_Main,Popuko,0000,0000,0000,,¡Un meteorito gigante!
+Dialogue: 0,0:15:12.55,0:15:15.26,Gen_Main,Popuko,0000,0000,0000,,¡Vaya, una maestra\Nde las técnicas de patadas!
+Dialogue: 0,0:15:12.80,0:15:17.05,Cart_Basic,Sign,0000,0000,0000,,{\fnVerdana\fs12\fscx60\fay0.3\c&H020302&\pos(506.5,147.5)\3c&HFFFFFF&}Pierna
+Dialogue: 0,0:15:17.22,0:15:20.56,Gen_Main,Popuko,0000,0000,0000,,¡No podrás con ese meteorito!
+Dialogue: 0,0:15:20.73,0:15:22.81,Gen_Main,Popuko,0000,0000,0000,,Pero ¡qué gran ángulo!
+Dialogue: 0,0:15:22.81,0:15:23.02,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(278,183)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:15:22.98,0:15:24.56,Gen_Main,Pipimi,0000,0000,0000,,¡Pierna!
+Dialogue: 0,0:15:23.14,0:15:23.35,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(278,183)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:15:23.48,0:15:23.69,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(278,183)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:15:23.81,0:15:24.02,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(278,183)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:15:24.14,0:15:24.35,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(278,183)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:15:24.48,0:15:24.56,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(278,183)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:15:24.56,0:15:26.36,Gen_Main,Popuko,0000,0000,0000,,¡Un gran, gran ángulo!
+Dialogue: 0,0:15:26.36,0:15:26.56,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\move(189,126.5,194.66,129.52,21,187)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:15:26.69,0:15:26.86,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\move(203,132.5,207.28,134.76,24,149)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:15:26.98,0:15:27.15,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\move(209,135.5,213.28,137.76,26,151)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:15:27.27,0:15:27.44,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\move(216,141.5,220.28,143.76,28,153)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:15:27.56,0:15:27.77,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\move(228,147.5,233.66,150.52,30,197)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:15:27.86,0:15:27.90,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(234,150.5)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:15:27.90,0:15:27.94,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(236,151.5)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:15:27.94,0:15:28.94,Gen_Main,Popuko,0000,0000,0000,,¡Es impresionante!
+Dialogue: 0,0:15:28.94,0:15:29.11,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\fs32\pos(219.5,254.5)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:15:29.15,0:15:29.28,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\fs32\pos(219.5,254.5)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:15:29.36,0:15:29.48,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\fs32\pos(219.5,254.5)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:15:29.40,0:15:32.11,Gen_Main,Popuko,0000,0000,0000,,¡Un gran ángulo!
+Dialogue: 0,0:15:29.57,0:15:29.65,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\fs32\pos(219.5,254.5)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:15:29.65,0:15:29.86,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\fs28\move(184.5,131.5,197.68,138.2,26,192)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:15:29.98,0:15:30.15,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\fs28\move(210,144.5,219.87,149.54,29,154)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:15:30.28,0:15:30.32,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\fs28\pos(233.5,156.5)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:15:30.32,0:15:30.48,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\fs10\move(165,20.5,180.15,29.29,23,148)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:15:30.32,0:15:30.48,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(325,189.5)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:15:30.53,0:15:30.65,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\fs10\move(190,34.5,199.95,40.19,21,105)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:15:30.53,0:15:30.65,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(325,189.5)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:15:30.73,0:15:30.86,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\fs10\move(216,49,225.95,54.69,30,113)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:15:30.73,0:15:30.86,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(325,189.5)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:15:30.94,0:15:31.07,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\fs10\move(241,63.5,250.95,69.19,29,112)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:15:30.94,0:15:31.07,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(325,189.5)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:15:31.15,0:15:31.28,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\fs10\move(267,78,276.95,83.69,27,111)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:15:31.15,0:15:31.28,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(325,189.5)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:15:31.36,0:15:31.49,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\fs10\move(292,92,301.95,97.69,26,109)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:15:31.36,0:15:31.49,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(325,189.5)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:15:31.53,0:15:31.69,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\fs10\move(313,104,328.16,112.79,22,148)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:15:31.53,0:15:31.69,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(325,189.5)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:15:31.74,0:15:31.86,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\fs10\move(338,118,347.95,123.69,21,104)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:15:31.74,0:15:31.86,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(325,189.5)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:15:31.94,0:15:32.07,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\fs10\move(363,132.5,372.95,138.19,30,113)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:15:31.94,0:15:32.07,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(325,189.5)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:15:32.11,0:15:32.28,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(220.5,242.5)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:15:32.24,0:15:32.28,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(97.5,15.5)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:15:32.28,0:15:35.91,Gen_Main,Popuko,0000,0000,0000,,¡Rayos, era un gran ángulo!
+Dialogue: 0,0:15:32.32,0:15:32.44,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(261,100)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:15:32.32,0:15:32.44,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(283,269)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:15:32.53,0:15:32.65,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(261,100)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:15:32.53,0:15:32.65,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(283,269)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:15:32.74,0:15:32.86,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(261,100)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:15:32.74,0:15:32.86,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(283,269)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:15:32.95,0:15:33.07,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(261,100)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:15:32.95,0:15:33.07,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(283,269)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:15:33.15,0:15:33.28,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(261,100)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:15:33.15,0:15:33.28,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(283,269)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:15:33.32,0:15:33.49,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(261,100)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:15:33.32,0:15:33.49,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(283,269)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:15:33.53,0:15:33.65,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(261,100)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:15:33.53,0:15:33.65,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(283,269)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:15:33.74,0:15:33.86,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(261,100)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:15:33.74,0:15:33.86,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(283,269)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:15:33.95,0:15:34.07,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(261,100)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:15:33.95,0:15:34.07,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(283,269)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:15:34.15,0:15:34.28,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(261,100)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:15:34.15,0:15:34.28,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(283,269)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:15:34.36,0:15:34.49,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(261,100)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:15:34.36,0:15:34.49,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(283,269)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:15:34.53,0:15:34.70,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(261,100)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:15:34.53,0:15:34.70,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(283,269)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:15:34.74,0:15:34.86,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(261,100)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:15:34.74,0:15:34.86,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(283,269)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:15:34.95,0:15:35.07,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(261,100)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:15:34.95,0:15:35.07,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(283,269)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:15:35.16,0:15:35.28,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(261,100)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:15:35.16,0:15:35.28,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(283,269)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:15:35.36,0:15:35.49,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(261,100)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:15:35.36,0:15:35.49,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(283,269)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:15:35.57,0:15:35.70,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(261,100)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:15:35.57,0:15:35.70,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(283,269)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:15:35.74,0:15:35.91,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(261,100)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:15:35.74,0:15:35.91,Cart_Basic,Sign,0000,0000,0000,,{\c&H1000E2&\pos(283,269)\bord0\fscy110\b1}Gran ángulo
+Dialogue: 0,0:15:35.91,0:15:38.91,Cart_A_Tre,Sign,0000,0000,0000,,{\bord0\an2\pos(320,290)\c&H000000&\b1}Por: Kazuki Sekiguchi
+Dialogue: 0,0:15:36.45,0:15:38.02,Gen_Main,Popuko,0000,0000,0000,,¡Pop Team Epic!
+Dialogue: 0,0:15:38.91,0:15:47.13,Cart_Basic,Sign,0000,0000,0000,,{\c&HF24A36&\fnVerdana\bord0\b1\fs22\pos(320,192)\t(3445,4071,\c&H5771EE&)}Pop Team Cooking
+Dialogue: 0,0:15:43.58,0:15:46.51,Gen_Main,Popuko and Pipimi,0000,0000,0000,,¡Pop Team Cooking!
+Dialogue: 0,0:15:47.92,0:15:50.80,Gen_Main,Assistant,0000,0000,0000,,Bienvenidos a otro episodio\Nde Pop Team Cooking.
+Dialogue: 0,0:15:50.97,0:15:53.23,Gen_Main,Pipimi,0000,0000,0000,,Hoy haremos cocina oscura.
+Dialogue: 0,0:15:53.39,0:15:56.37,Gen_Main,Assistant,0000,0000,0000,,¿Cocina oscura? ¿Cómo es eso?
+Dialogue: 0,0:15:56.51,0:16:00.43,Gen_Main,Pipimi,0000,0000,0000,,Haremos una rosa con carne especial,\Nal estilo cementerio.
+Dialogue: 0,0:16:00.60,0:16:02.23,Gen_Main,Assistant,0000,0000,0000,,¿Y qué ingredientes usaremos?
+Dialogue: 0,0:16:02.39,0:16:04.61,Gen_Main,Pipimi,0000,0000,0000,,Este es el plato ya completo.
+Dialogue: 0,0:16:05.23,0:16:06.94,Cart_Basic,Sign,0000,0000,0000,,{\fad(482,1)\fs26\b1\bord2\pos(546,253.5)}Fin
+Dialogue: 0,0:16:06.94,0:16:09.94,Cart_A_Tre,Sign,0000,0000,0000,,{\bord0\an2\pos(320,290)\c&H000000&\b1}Por: K-ko Matsuda
+Dialogue: 0,0:16:07.11,0:16:08.88,Gen_Main,Pipimi,0000,0000,0000,,¡Pop Team Epic!
+Dialogue: 0,0:16:10.53,0:16:12.96,Gen_Main,Pipimi,0000,0000,0000,,Por mi comienza el nuevo segmento…
+Dialogue: 0,0:16:13.11,0:16:15.00,Gen_Main,Popuko,0000,0000,0000,,…que todos esperaban.
+Dialogue: 0,0:16:16.12,0:16:18.74,Gen_Main,Popuko and Pipimi,0000,0000,0000,,{\i1}Pop Team Epic B-Side.{\i0}
+Dialogue: 0,0:16:21.12,0:16:22.18,Gen_Main,Popuko,0000,0000,0000,,¡Pipihara!
+Dialogue: 0,0:16:23.46,0:16:24.56,Gen_Main,Popuko,0000,0000,0000,,Pipihara…
+Dialogue: 0,0:16:24.92,0:16:28.09,Gen_Main,Popuko,0000,0000,0000,,Mira, quiero darte una cosa.
+Dialogue: 0,0:16:28.71,0:16:30.73,Gen_Main,Popuko,0000,0000,0000,,Arroz gapao.
+Dialogue: 0,0:16:31.21,0:16:32.65,Gen_Main,Pipimi,0000,0000,0000,,Popuoka…
+Dialogue: 0,0:16:33.63,0:16:36.53,Gen_Main,Pipimi,0000,0000,0000,,La verdad es que ya tengo…
+Dialogue: 0,0:16:37.89,0:16:39.88,Gen_Main,Pipimi,0000,0000,0000,,arroz gapao.
+Dialogue: 0,0:16:41.18,0:16:43.66,Gen_Main,Popuko and Pipimi,0000,0000,0000,,{\i1}Pop Team Epic B-Side.{\i0}
+Dialogue: 0,0:16:44.02,0:16:46.09,Gen_Main,Popuko,0000,0000,0000,,Pop Team Epic.
+Dialogue: 0,0:16:44.02,0:16:47.02,Cart_A_Tre,Sign,0000,0000,0000,,{\bord0\an2\pos(320,290)\c&H000000&\b1}Por: Junichi Yamamoto
+Dialogue: 0,0:16:47.02,0:16:50.86,Gen_Main,Pipimi Narration,0000,0000,0000,,Los mosquitos hicieron sufrir al hombre\Ndurante toda su historia.
+Dialogue: 0,0:16:51.03,0:16:56.41,Gen_Main,Pipimi Narration,0000,0000,0000,,Pero la humanidad usó su inteligencia\Npara crear un arma para contraatacar.
+Dialogue: 0,0:16:57.07,0:16:59.20,Gen_Main,Pipimi Narration,0000,0000,0000,,Es la única esperanza de la humanidad…
+Dialogue: 0,0:17:00.41,0:17:02.54,Gen_Main,Pipimi Narration,0000,0000,0000,,¡Earth No-Mat!
+Dialogue: 0,0:17:01.70,0:17:03.66,Cart_Basic,Sign,0000,0000,0000,,{\an5\fscy10\t(26,610,\fscy100)\c&H010902&\3c&HFEFDF9&\b1\bord2\blur2\pos(502,75)\fscx80}Erradicador de Mosquitos Terrestre\N{\fs36\fax-0.2\c&H210ABC&\3c&H8CC1F3&\bord2\shad3\blur0}Earth No-Mat
+Dialogue: 0,0:17:02.16,0:17:03.66,Cart_Basic,Sign,0000,0000,0000,,{\fad(233,1)\bord0\pos(78,79)}Nueva serie
+Dialogue: 0,0:17:03.66,0:17:05.50,Gen_Main,Popuko,0000,0000,0000,,¿No es un buen material?
+Dialogue: 0,0:17:03.66,0:17:05.50,Cart_Basic,Sign,0000,0000,0000,,{\fs10\pos(237,84)\bord0}Nueva serie
+Dialogue: 0,0:17:03.66,0:17:05.50,Cart_Basic,Sign,0000,0000,0000,,{\fs12\c&H010902&\3c&HFEFDF9&\bord1.5\blur1\pos(442,93)\clip(m 443 121 l 444 113 456 108 452 94 455 81 460 73 466 68 481 65 514 81 518 42 362 50 394 101)\fscx80}Erradicador de Mosquitos Terrestre\N{\fs18\fax-0.2\c&H210ABC&\3c&H8CC1F3&\bord1.5\shad1.5\blur0}Earth No-Mat
+Dialogue: 0,0:17:05.67,0:17:06.96,Gen_Main,Middle-aged boss-type guy,0000,0000,0000,,Qué tontería.
+Dialogue: 0,0:17:07.12,0:17:09.92,Gen_Main,Middle-aged boss-type guy,0000,0000,0000,,¿Quién se tomaría en serio\Nun repelente de insectos?
+Dialogue: 0,0:17:13.76,0:17:15.52,Gen_Main,Middle-aged boss-type guy,0000,0000,0000,,¡Mosquito!
+Dialogue: 0,0:17:15.68,0:17:17.63,Gen_Main,Popuko,0000,0000,0000,,¡No nos engañarás!
+Dialogue: 0,0:17:18.09,0:17:20.51,Cart_Basic,Sign,0000,0000,0000,,{\c&H0C00C9&\fs30\fax-0.2\pos(512,262.8)\3c&H6A5EF7&\bord1.5\shad1\4c&H070982&}Earth No-Mat
+Dialogue: 0,0:17:18.26,0:17:20.51,Gen_Main,Pipimi Narration,0000,0000,0000,,¡Earth No-Mat!
+Dialogue: 0,0:17:20.51,0:17:23.93,Cart_TitleEp,Sign,0000,0000,0000,,{\pos(320,230)\fs25}¡Vamos allá! \N¡Combinación enorme de narices!
+Dialogue: 0,0:17:20.51,0:17:23.93,Cart_Basic,Sign,0000,0000,0000,,{\bord0\an2\c&HFFFFFF&\b1\pos(320,315)}Por: ????
+Dialogue: 0,0:17:35.36,0:17:36.49,Gen_Main,Akashi Record,0000,0000,0000,,Pipimi…
+Dialogue: 0,0:17:36.86,0:17:42.45,Gen_Main,Akashi Record,0000,0000,0000,,¿Esto es fruto de esas capacidades\Nsupuestamente infinitas
+Dialogue: 0,0:17:42.62,0:17:44.31,Gen_Main,Akashi Record,0000,0000,0000,,que poseen los humanos?
+Dialogue: 0,0:17:45.62,0:17:48.11,Gen_Main,Mecha Pipimi,0000,0000,0000,,No perderé… ¡No puedo perder!
+Dialogue: 0,0:17:48.29,0:17:50.62,Gen_Main,Mecha Pipimi,0000,0000,0000,,¡Lucho por el futuro del planeta!
+Dialogue: 0,0:18:07.35,0:18:08.57,Gen_Main,Akashi Record,0000,0000,0000,,¡Atenta!
+Dialogue: 0,0:18:09.23,0:18:11.47,Gen_Main,King Recorder,0000,0000,0000,,¡Evolucionaré…
+Dialogue: 0,0:18:12.94,0:18:16.57,Gen_Main,King Recorder,0000,0000,0000,,una vez más!
+Dialogue: 0,0:18:19.49,0:18:20.49,Gen_Main,Mecha Pipimi,0000,0000,0000,,¡No puede ser!
+Dialogue: 0,0:18:21.03,0:18:23.44,Gen_Main,King Recorder,0000,0000,0000,,¡Me llamo King Recorder!
+Dialogue: 0,0:18:27.29,0:18:28.74,Gen_Main,King Recorder,0000,0000,0000,,Necias.
+Dialogue: 0,0:18:28.92,0:18:30.89,Gen_Main,King Recorder,0000,0000,0000,,Mientras ustedes holgazaneaban,
+Dialogue: 0,0:18:31.04,0:18:37.26,Gen_Main,King recorder,0000,0000,0000,,¡yo no paré de publicar éxitos\Nuno tras otro en otros medios!
+Dialogue: 0,0:18:44.10,0:18:45.52,Gen_Main,Sushi Pipimi,0000,0000,0000,,Popu.
+Dialogue: 0,0:18:46.43,0:18:49.62,Gen_Main,Sushi Pipimi,0000,0000,0000,,Si vuelvo con vida…
+Dialogue: 0,0:18:50.60,0:18:51.83,Gen_Main,Sushi Pipimi,0000,0000,0000,,Entonces…
+Dialogue: 0,0:18:56.15,0:18:57.59,Gen_Main,Sushi Popuko,0000,0000,0000,,Pipimi.
+Dialogue: 0,0:19:10.33,0:19:12.50,Gen_Main,King Recorder,0000,0000,0000,,¡Te reduciré a cenizas!
+Dialogue: 0,0:19:25.14,0:19:26.44,Gen_Main,Sushi Popuko,0000,0000,0000,,¡Pipimi!
+Dialogue: 0,0:19:28.60,0:19:30.56,Gen_Main,King Recorder,0000,0000,0000,,Ahora que me libré de ella,
+Dialogue: 0,0:19:31.23,0:19:33.40,Gen_Main,King Recorder,0000,0000,0000,,¡crearé un comité
+Dialogue: 0,0:19:33.56,0:19:37.42,Gen_Main,King Recorder,0000,0000,0000,,y subcontrataré una y otra vez!
+Dialogue: 0,0:19:42.36,0:19:43.49,Gen_Main,Sushi Popuko,0000,0000,0000,,¡No!
+Dialogue: 0,0:19:43.66,0:19:47.45,Gen_Main,Sushi Popuko,0000,0000,0000,,Pop Team Epic debe tener\Nun solo patrocinador para ser libre.
+Dialogue: 0,0:19:48.75,0:19:51.08,Gen_Main,Sushi Pipimi,0000,0000,0000,,Si vuelvo con vida…
+Dialogue: 0,0:19:51.92,0:19:53.29,Gen_Main,Sushi Pipimi,0000,0000,0000,,Presionaremos a Obari.
+Dialogue: 0,0:19:54.29,0:19:59.05,Gen_Main,Sushi Popuko,0000,0000,0000,,¿De verdad le daremos\Nmás trabajo a Obari?
+Dialogue: 0,0:20:02.68,0:20:03.74,Gen_Main,Sushi Popuko,0000,0000,0000,,Esto es…
+Dialogue: 0,0:20:12.64,0:20:13.69,Gen_Main,Mecha Pipimi,0000,0000,0000,,Po…
+Dialogue: 0,0:20:14.23,0:20:15.35,Gen_Main,Mecha Pipimi,0000,0000,0000,,¡Popu!
+Dialogue: 0,0:20:17.86,0:20:18.96,Gen_Main,King Recorder,0000,0000,0000,,¡Necias!
+Dialogue: 0,0:20:19.11,0:20:22.49,Gen_Main,King Recorder,0000,0000,0000,,¿Cómo se atreven a encarecer\Nla producción a estas alturas?
+Dialogue: 0,0:20:23.36,0:20:25.18,Gen_Main,Mecha Popuko,0000,0000,0000,,¿Encarecer la producción?
+Dialogue: 0,0:20:26.24,0:20:29.99,Gen_Main,Mecha Popuko,0000,0000,0000,,¿Te crees que esto es el final?
+Dialogue: 0,0:20:32.29,0:20:33.78,Gen_Main,Mecha Popuko,0000,0000,0000,,¡Vamos allá, Pipimi!
+Dialogue: 0,0:20:33.96,0:20:36.17,Gen_Main,Mecha Pipimi,0000,0000,0000,,¡Combinemos nuestros poderes!
+Dialogue: 0,0:20:49.97,0:20:55.44,Gen_Main,Great Bari Bari Team Epic,0000,0000,0000,,¡Combinación superenorme!\N¡Great Baribari Team Epic!
+Dialogue: 0,0:20:55.44,0:20:57.83,Gen_Main,King Recorder,0000,0000,0000,,¿Qué? ¿Cómo osan…?
+Dialogue: 0,0:20:58.61,0:21:02.07,Gen_Main,King Recorder,0000,0000,0000,,¡No puede ser! ¡Todo el poder que tenía!
+Dialogue: 0,0:21:02.24,0:21:08.46,Gen_Main,King Recorder,0000,0000,0000,,¡Mis beneficios por mi gran contenido\Nestán desapareciendo!
+Dialogue: 0,0:21:08.99,0:21:10.70,Gen_Main,Great Bari Bari Team Epic,0000,0000,0000,,¡King Recorder!
+Dialogue: 0,0:21:10.87,0:21:15.33,Gen_Main,Great Bari Bari Team Epic,0000,0000,0000,,¡Te chupamos la energía presupuestaria\Ncon nuestro Manga Ridículo Drive,
+Dialogue: 0,0:21:16.03,0:21:18.71,Gen_Main,Great Bari Bari Team Epic,0000,0000,0000,,para convertirla en Energía Obari!
+Dialogue: 0,0:21:18.88,0:21:22.46,Gen_Main,King Recorder,0000,0000,0000,,¡Maldito Great Baribari Team Epic!
+Dialogue: 0,0:21:23.55,0:21:24.76,Gen_Main,Mecha Pipimi,0000,0000,0000,,¡Esto es…!
+Dialogue: 0,0:21:24.92,0:21:25.93,Gen_Main,Mecha Popuko,0000,0000,0000,,¡El fin!
+Dialogue: 0,0:21:27.68,0:21:31.71,Gen_Main,Great Bari Bari Team Epic,0000,0000,0000,,¡Cañón de Mierda! ¡Potencia total!
+Dialogue: 0,0:21:36.02,0:21:40.11,Gen_Main,King Recorder,0000,0000,0000,,¡Necias insolentes!\N¡No son más que unas…!
+Dialogue: 0,0:21:47.11,0:21:49.21,Gen_Main,Great Bari Bari Team Epic,0000,0000,0000,,¡Desaparece, perdedor!
+Dialogue: 0,0:21:49.37,0:21:53.40,Gen_Italics,Nar,0000,0000,0000,,Y así volvió la paz a Pop Team Epic.
+Dialogue: 0,0:21:54.12,0:22:01.88,Gen_Italics,,0000,0000,0000,,Vamos a jugar con nuestros deditos.
+Dialogue: 0,0:22:02.05,0:22:09.09,Gen_Italics,,0000,0000,0000,,Solo necesitas un dedito.
+Dialogue: 0,0:22:09.26,0:22:16.93,Gen_Italics,,0000,0000,0000,,Uno más uno son dos.
+Dialogue: 0,0:22:17.10,0:22:23.73,Gen_Italics,,0000,0000,0000,,Vamos, hagamos esto juntas.
+Dialogue: 0,0:22:23.90,0:22:31.24,Gen_Italics,,0000,0000,0000,,Solo somos dos guisantes, solo somos\Ndos guisantes, guisantes, gui, gui, gui.
+Dialogue: 0,0:22:31.41,0:22:38.75,Gen_Italics,,0000,0000,0000,,Solo somos dos guisantes, solo somos\Ndos guisantes, guisantes, gui, gui, gui.
+Dialogue: 0,0:22:38.92,0:22:46.54,Gen_Italics,,0000,0000,0000,,Solo somos dos guisantes, solo somos\Ndos guisantes, guisantes, gui, gui, gui.
+Dialogue: 0,0:22:46.71,0:22:54.13,Gen_Italics,,0000,0000,0000,,No me seas infiel.
+Dialogue: 0,0:22:54.72,0:22:57.68,Cart_Basic,Sign,0000,0000,0000,,{\fad(567,1)\q2\bord1\fnVerdana\blur0.4\b1\fscx80\pos(326,112)\fs16}Este era el episodio final de "Superhéroe del Presupuesto Great Baribari Team Epic".\NGracias por vernos.
+Dialogue: 0,0:22:57.68,0:23:01.29,Gen_Main,Pipimi,0000,0000,0000,,Gracias por comprar Pop Team Epic.
+Dialogue: 0,0:22:57.68,0:23:40.01,Cart_A_Tre,Sign,0000,0000,0000,,{\3c&H415970&\c&HDDFFFF&\shad0\fs20\blur1\b0\pos(119,17)}La habitación de Pipimi
+Dialogue: 0,0:22:57.68,0:23:40.01,Cart_A_Tre,Sign,0000,0000,0000,,{\3c&H415970&\c&HDDFFFF&\shad0\fs18\fscx90\blur1\b0\pos(493,267)}¿Comprarás el BD de Pop Team Epic 2?
+Dialogue: 0,0:23:01.44,0:23:04.22,Gen_Main,Popuko,0000,0000,0000,,Espera, que esto\Nse puede ver en streaming.
+Dialogue: 0,0:23:04.40,0:23:06.60,Gen_Main,Pipimi,0000,0000,0000,,-¿En serio?\N-Es más, ¿alguien lo compra?
+Dialogue: 0,0:23:06.78,0:23:09.72,Gen_Main,Popuko,0000,0000,0000,,Mejor que compren {\i1}Tsubaki ***juro{\i0}.
+Dialogue: 0,0:23:09.90,0:23:12.60,Gen_Main,Pipimi,0000,0000,0000,,Popu, no digas eso.
+Dialogue: 0,0:23:12.78,0:23:15.80,Gen_Main,Popuko,0000,0000,0000,,Pero si {\i1}Tsubaki ***juro{\i0}\Nes un clásico de Kurosawa.
+Dialogue: 0,0:23:15.95,0:23:17.70,Gen_Main,Popuko,0000,0000,0000,,-Gran éxito.\N-Y tant... ¡Oye!
+Dialogue: 0,0:23:18.29,0:23:19.70,Gen_Main,Popuko,0000,0000,0000,,Oye, Pipimi.
+Dialogue: 0,0:23:19.87,0:23:21.92,Gen_Main,Popuko,0000,0000,0000,,¿Qué comprarás en vez de PTE2?
+Dialogue: 0,0:23:22.08,0:23:25.49,Gen_Main,Pipimi,0000,0000,0000,,Supongo que un CD de Inori.
+Dialogue: 0,0:23:25.67,0:23:26.88,Gen_Main,Popuko,0000,0000,0000,,¿No comprarás PTE?
+Dialogue: 0,0:23:27.05,0:23:29.53,Gen_Main,Pipimi,0000,0000,0000,,Ni hablar.\NQue me envíen una copia a Axl One.
+Dialogue: 0,0:23:29.67,0:23:32.43,Gen_Main,Popuko,0000,0000,0000,,Claro, el la ventaja\Nde trabajar en la serie.
+Dialogue: 0,0:23:32.59,0:23:34.97,Gen_Main,Pipimi,0000,0000,0000,,Privilegios del presidente.
+Dialogue: 0,0:23:35.14,0:23:37.72,Gen_Main,Popuko,0000,0000,0000,,No dudaste en decirlo.\NPresumiendo de ser presi.
+Dialogue: 0,0:23:37.89,0:23:39.93,Gen_Main,Pipimi,0000,0000,0000,,¡King Recorder!
+

@@ -1,0 +1,493 @@
+[Script Info]
+Title: [Erai-raws] Español (América Latina)
+ScaledBorderAndShadow: yes
+
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Cart_TitleEp,Trebuchet MS,26,&H00FFFFFF,&H000000FF,&H00712E2B,&H00797979,-1,0,0,0,100,100,0,0,1,0,0,2,0020,0020,0150,1
+Style: Cart_A_Tre,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_A_Tim,Times New Roman,24,&H00FFFFFF,&H000000FF,&H00303030,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_A_Ari,Verdana,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,110,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_Tre_NoShad,Trebuchet MS,18,&H00000000,&H000000FF,&H00FFFFFF,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,0,0,8,0020,0020,0020,1
+Style: Cart_SeriesTitle,Verdana,25,&H006C1EDF,&H000000FF,&H00FBFCFA,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0030,0030,0020,1
+Style: Cart_Avance,Trebuchet MS,16,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,0010,0010,0018,1
+Style: Cart_Nota,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H008E2BD8,&H008D365A,0,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_Next,Trebuchet MS,22,&H00F8FFFF,&H000000FF,&H00110D3A,&H005B5D5F,0,0,0,0,100,100,0,0,1,1,0,8,0020,0020,0130,1
+Style: Cart_Basic,Verdana,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,110,0,0,1,2,0,2,0010,0010,0018,1
+Style: Cart_BasicBox,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,3,2,1,2,0010,0010,0018,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.00,0:00:02.98,Cart_A_Tre,,0000,0000,0000,,{\bord0\an2\pos(320,290)\c&H000000&\b1}Por: Kamikaze Douga
+Dialogue: 0,0:00:00.64,0:00:02.38,Gen_Main,2,0000,0000,0000,,Pop Team Epic.
+Dialogue: 0,0:00:05.86,0:00:08.48,Gen_Main,popuko,0000,0000,0000,,El piedra, papel, tijeras\Nse empieza con piedra.
+Dialogue: 0,0:00:08.65,0:00:09.96,Gen_Main,popuko,0000,0000,0000,,Pero ¡yo uso papel!
+Dialogue: 0,0:00:11.49,0:00:12.82,Gen_Main,pipimi,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:00:16.32,0:00:17.58,Gen_Main,popuko,0000,0000,0000,,¿Lo conseguí?
+Dialogue: 0,0:00:19.58,0:00:21.66,Cart_A_Tre,,0000,0000,0000,,{\c&H000000&\3c&HD7EEFA&\fs14\fscx80\pos(379,76)}Lo conseguiste
+Dialogue: 0,0:00:21.70,0:00:24.25,Cart_A_Tre,,0000,0000,0000,,{\c&H000000&\fad(100,0)\3c&HD7EEFA&\fs14\fscx80\pos(236,66)\frz8.471}Lo conseguiste
+Dialogue: 0,0:00:23.08,0:00:24.26,Gen_Main,popuko,0000,0000,0000,,¡Viva!
+Dialogue: 0,0:00:44.44,0:00:46.28,Gen_Italics,OP Lyrics,0000,0000,0000,,Encontré el camino al cielo.
+Dialogue: 0,0:00:46.44,0:00:47.91,Gen_Italics,OP Lyrics,0000,0000,0000,,Mi vida pasada contigo.
+Dialogue: 0,0:00:48.06,0:00:49.56,Gen_Italics,OP Lyrics,0000,0000,0000,,Viste los ojos del cielo.
+Dialogue: 0,0:00:49.73,0:00:51.28,Gen_Italics,OP Lyrics,0000,0000,0000,,Confesiones infinitas.
+Dialogue: 0,0:00:51.44,0:00:53.04,Gen_Italics,OP Lyrics,0000,0000,0000,,Estuve en el séptimo cielo.
+Dialogue: 0,0:00:53.19,0:00:54.57,Gen_Italics,OP Lyrics,0000,0000,0000,,El conflicto se acelera.
+Dialogue: 0,0:00:54.74,0:00:57.83,Gen_Italics,OP Lyrics,0000,0000,0000,,Por todos los cielos…\NTus motivos para vivir son abstractos.
+Dialogue: 0,0:00:57.99,0:01:01.02,Gen_Italics,OP Lyrics,0000,0000,0000,,Mira, cariño, qué peligro.
+Dialogue: 0,0:01:01.20,0:01:04.52,Gen_Italics,OP Lyrics,0000,0000,0000,,Problemas al máximo, con tu cara de póker.
+Dialogue: 0,0:01:04.66,0:01:07.70,Gen_Italics,OP Lyrics,0000,0000,0000,,Mira, cariño, es ridículo.
+Dialogue: 0,0:01:07.88,0:01:11.49,Gen_Italics,OP Lyrics,0000,0000,0000,,La vida es como una burbuja\Nentre los sueños y la realidad.
+Dialogue: 0,0:01:12.00,0:01:16.50,Gen_Italics,OP Lyrics,0000,0000,0000,,¿Qué es lo que sientes?
+Dialogue: 0,0:01:16.68,0:01:19.00,Gen_Italics,OP Lyrics,0000,0000,0000,,Para siempre.
+Dialogue: 0,0:01:19.18,0:01:24.73,Gen_Italics,OP Lyrics,0000,0000,0000,,Suena antimundo.
+Dialogue: 0,0:01:24.89,0:01:29.13,Gen_Italics,OP Lyrics,0000,0000,0000,,La salida. ¿O qué te crees?
+Dialogue: 0,0:01:29.27,0:01:31.43,Gen_Italics,OP Lyrics,0000,0000,0000,,La ecuación del espejo.
+Dialogue: 0,0:01:31.61,0:01:35.80,Gen_Italics,OP Lyrics,0000,0000,0000,,Despierta, ya no puedo ni pensar.
+Dialogue: 0,0:01:35.95,0:01:38.06,Gen_Italics,OP Lyrics,0000,0000,0000,,Una elegante PSYCHO:LOGY.
+Dialogue: 0,0:01:38.24,0:01:42.48,Gen_Italics,OP Lyrics,0000,0000,0000,,La salida. ¿Qué puedes ver?
+Dialogue: 0,0:01:42.66,0:01:45.69,Gen_Italics,OP Lyrics,0000,0000,0000,,Un exceso de ironía.
+Dialogue: 0,0:01:50.76,0:01:55.10,Cart_A_Tre,Sign,0000,0000,0000,,{\p1\shad0\bord3.5\fad(100,0)\an8\pos(320,70)\3c&HFFFFFF&}m 0 0 l 302 0 302 26 0 26{\p0}
+Dialogue: 0,0:01:50.76,0:01:55.10,Cart_A_Tre,Sign,0000,0000,0000,,{\p1\shad0\bord1.5\fad(100,0)\an8\pos(320,70)}m 0 0 l 302 0 302 26 0 26{\p0}
+Dialogue: 0,0:01:50.76,0:01:55.10,Cart_A_Tre,Sign,0000,0000,0000,,{\3c&HFFFFFF&\shad0\fad(100,0)\an2\b0\bord0\fs18\fnTimes New Roman\c&H000000&\pos(320,91)}\hSegunda temporada de la serie de animación\h
+Dialogue: 0,0:01:55.09,0:01:58.59,Cart_TitleEp,,0000,0000,0000,,Combates de tren
+Dialogue: 0,0:02:01.93,0:02:04.93,Gen_Main,popuko,0000,0000,0000,,Ya sé. Voy a ir a Kioto.
+Dialogue: 0,0:02:06.31,0:02:10.56,Gen_Main,popuko,0000,0000,0000,,Colocaré un montón de piedras\Npor las aceras.
+Dialogue: 0,0:02:12.28,0:02:13.65,Cart_TitleEp,,0000,0000,0000,,{\pos(345,122)\bord3}Andén del tren bala{\fs18} (Centro)
+Dialogue: 0,0:02:14.23,0:02:16.38,Gen_Main,popuko,0000,0000,0000,,Piedras por aquí y por allá.
+Dialogue: 0,0:02:16.53,0:02:18.11,Gen_Main,popuko,0000,0000,0000,,Ñam, ñam, qué rico.
+Dialogue: 0,0:02:19.03,0:02:21.62,Gen_Main,popuko,0000,0000,0000,,Perdone, ¿puedo reclinar el asiento?
+Dialogue: 0,0:02:21.78,0:02:25.49,Gen_Main,pipimi,0000,0000,0000,,Ni hablar, jovenzuela.
+Dialogue: 0,0:02:26.58,0:02:29.71,Gen_Main,popuko,0000,0000,0000,,¿Y si te derroto a ti primero?
+Dialogue: 0,0:02:30.99,0:02:33.66,Gen_Main,pipimi,0000,0000,0000,,La rana del pozo no conoce el océano.
+Dialogue: 0,0:02:34.71,0:02:37.09,Gen_Main,pipimi,0000,0000,0000,,Qué interesante. Acepto el reto.
+Dialogue: 0,0:02:37.26,0:02:39.09,Gen_Main,conductor,0000,0000,0000,,¿Ambas están de acuerdo?
+Dialogue: 0,0:02:39.97,0:02:41.14,Gen_Main,2,0000,0000,0000,,¡Combate de tren!
+Dialogue: 0,0:02:41.16,0:02:41.54,Cart_A_Tim,,0000,0000,0000,,{\shad0\c&HCFC1AA&\pos(320,107)}El tiempo en Tokio es…
+Dialogue: 0,0:02:41.54,0:02:42.18,Cart_A_Tim,,0000,0000,0000,,{\shad0\c&H2704CA&\pos(320,107)}Alerta   Alerta
+Dialogue: 0,0:02:41.72,0:02:46.16,Gen_Italics,conductor,0000,0000,0000,,Se acaba de declarar un combate de tren.
+Dialogue: 0,0:02:43.42,0:02:46.39,Cart_A_Tim,,0000,0000,0000,,{\shad0\c&H2704CA&\3c&H1B173A&\fax-0.3\blur2\an6\frx0\fry44\pos(567,280)\org(452,273)\frz358.8}Se declaró un combate de tren
+Dialogue: 0,0:02:46.31,0:02:49.98,Gen_Italics,conductor,0000,0000,0000,,Pasajeros del sexto vagón,\Npor favor, desplácense.
+Dialogue: 0,0:02:50.14,0:02:54.98,Gen_Italics,conductor,0000,0000,0000,,El combate se retransmitirá\Nen las pantallas del vagón dos.
+Dialogue: 0,0:02:55.77,0:02:58.69,Gen_Main,popuko,0000,0000,0000,,Luego no te arrepientas, viejo.
+Dialogue: 0,0:03:00.20,0:03:01.78,Gen_Main,pipimi,0000,0000,0000,,Te enseñaré modales.
+Dialogue: 0,0:03:01.95,0:03:04.99,Gen_Italics,conductor,0000,0000,0000,,Que empiece el combate de tren.
+Dialogue: 0,0:03:14.13,0:03:15.50,Gen_Main,pipimi,0000,0000,0000,,Qué fácil.
+Dialogue: 0,0:03:20.80,0:03:21.80,Gen_Main,popuko,0000,0000,0000,,¡No veo!
+Dialogue: 0,0:03:22.43,0:03:23.56,Gen_Main,pipimi,0000,0000,0000,,Eso es.
+Dialogue: 0,0:03:24.60,0:03:27.08,Gen_Main,popuko,0000,0000,0000,,¡Ay, ay! El helado duele.
+Dialogue: 0,0:03:27.77,0:03:28.78,Gen_Main,popuko,0000,0000,0000,,Rayos…
+Dialogue: 0,0:03:28.93,0:03:31.62,Gen_Main,popuko,0000,0000,0000,,¿Cómo se llamaba aquel comediante?
+Dialogue: 0,0:03:32.10,0:03:33.44,Gen_Main,popuko,0000,0000,0000,,¡Ahora!
+Dialogue: 0,0:03:44.57,0:03:48.74,Gen_Main,conductor,0000,0000,0000,,Cayeron ambas.\NGanará la que se levante primero.
+Dialogue: 0,0:03:52.12,0:03:56.16,Gen_Main,pipimi,0000,0000,0000,,Las dos recibimos el mismo daño.
+Dialogue: 0,0:03:59.76,0:04:02.72,Gen_Main,pipimi,0000,0000,0000,,Imposible. Con esas heridas…
+Dialogue: 0,0:04:04.47,0:04:06.14,Gen_Main,popuko,0000,0000,0000,,Mira por la ventana.
+Dialogue: 0,0:04:06.72,0:04:08.38,Gen_Main,pipimi,0000,0000,0000,,¿Por la ventana?
+Dialogue: 0,0:04:13.19,0:04:16.10,Gen_Main,pipimi,0000,0000,0000,,¡El Doctor Y*llow!
+Dialogue: 0,0:04:16.44,0:04:19.90,Gen_Main,popuko,0000,0000,0000,,Dicen que ver el Doctor Y*llow\Nte da suerte.
+Dialogue: 0,0:04:20.40,0:04:24.48,Gen_Main,popuko,0000,0000,0000,,Parece que la diosa de la fortuna\Nestaba de mi lado.
+Dialogue: 0,0:04:24.66,0:04:28.80,Gen_Italics,conductor,0000,0000,0000,,La vencedora es Popuko. Popuko.
+Dialogue: 0,0:04:25.57,0:04:29.42,Cart_A_Ari,,0000,0000,0000,,{\c&HCDFFFF&\blur1\bord1\fad(500,0)\3c&H4E8EC0&\fs36\pos(320,60)}Popuko
+Dialogue: 0,0:04:32.12,0:04:35.54,Gen_Main,pipimi,0000,0000,0000,,Perdí. Me derrotaste.
+Dialogue: 0,0:04:36.29,0:04:41.34,Gen_Main,pipimi,0000,0000,0000,,Yo también era una combatiente\Nde tren imprudente, como tú.
+Dialogue: 0,0:04:42.51,0:04:44.84,Gen_Main,popuko,0000,0000,0000,,¡Un cenicero!
+Dialogue: 0,0:04:44.84,0:04:51.28,Cart_A_Ari,,0000,0000,0000,,{\c&H0AABDA&\fs18\fscx90\bord1\move(476,205,454,205,27,6409)}Cenicero
+Dialogue: 0,0:04:44.84,0:04:51.28,Cart_A_Ari,,0000,0000,0000,,{\c&H0AABDA&\fs18\fscx90\bord1\move(257,204,235,204,27,6409)}Cenicero
+Dialogue: 0,0:04:44.84,0:04:51.28,Cart_A_Ari,,0000,0000,0000,,{\c&H0AABDA&\fs14\fscx90\bord1\move(188,164,166,164,27,6409)}Cenicero
+Dialogue: 0,0:04:45.01,0:04:49.14,Gen_Main,pipimi,0000,0000,0000,,El tren bala era la personificación\Nde la pasión de la era Showa,
+Dialogue: 0,0:04:49.31,0:04:51.84,Gen_Main,pipimi,0000,0000,0000,,cuando Japón crecía económicamente.
+Dialogue: 0,0:04:51.28,0:05:02.28,Cart_A_Ari,,0000,0000,0000,,{\c&H0AABDA&\fs18\fscx90\bord1\move(491,212,471,212)}Cenicero
+Dialogue: 0,0:04:51.28,0:05:02.28,Cart_A_Ari,,0000,0000,0000,,{\c&H0AABDA&\fs18\fscx90\bord1\move(247,213,227,213)}Cenicero
+Dialogue: 0,0:04:52.22,0:04:55.14,Gen_Main,pipimi,0000,0000,0000,,El humo del tabaco cubría los vagones
+Dialogue: 0,0:04:55.31,0:04:59.12,Gen_Main,pipimi,0000,0000,0000,,y los oficinistas exaltados se peleaban.
+Dialogue: 0,0:04:59.27,0:05:02.28,Gen_Main,pipimi,0000,0000,0000,,Ahí nacieron los combates de tren.
+Dialogue: 0,0:05:03.44,0:05:04.90,Gen_Italics,pipimi,0000,0000,0000,,Tenía miedo.
+Dialogue: 0,0:05:05.78,0:05:09.76,Gen_Italics,pipimi,0000,0000,0000,,Miedo de que todo lo que generó\Nla cultura de la era Showa
+Dialogue: 0,0:05:10.16,0:05:14.78,Gen_Italics,pipimi,0000,0000,0000,,fuera eliminado ilógica, impropia\Ny desconsideradamente.
+Dialogue: 0,0:05:16.04,0:05:22.21,Gen_Main,pipimi,0000,0000,0000,,Me alegro de que aún haya\Ncombatientes de tren como tú.
+Dialogue: 0,0:05:22.38,0:05:23.38,Gen_Main,popuko,0000,0000,0000,,Viejo…
+Dialogue: 0,0:05:24.21,0:05:26.10,Gen_Main,pipimi,0000,0000,0000,,Te confío mi sueño.
+Dialogue: 0,0:05:26.76,0:05:32.89,Gen_Main,pipimi,0000,0000,0000,,Los recuerdos de los que luchamos\Nen la era Showa.
+Dialogue: 0,0:05:34.64,0:05:38.90,Gen_Main,popuko,0000,0000,0000,,Qué remedio. Supongo que puedo\Nayudarlo a cumplir su sueño.
+Dialogue: 0,0:05:40.02,0:05:44.40,Gen_Main,popuko,0000,0000,0000,,¡Seré la mejor combatiente\Nde tren de Japón!
+Dialogue: 0,0:05:45.61,0:05:47.02,Gen_Main,popuko/pipimi,0000,0000,0000,,-Continuará.\N-No.
+Dialogue: 0,0:05:47.22,0:05:48.96,Gen_Main,popuko/pipimi,0000,0000,0000,,-¿Por qué?\N-Porque no.
+Dialogue: 0,0:05:49.12,0:05:50.99,Gen_Main,popuko,0000,0000,0000,,¿Qué? Sí que continuará.
+Dialogue: 0,0:05:51.66,0:05:53.49,Gen_Main,popuko,0000,0000,0000,,Sobró tiempo.
+Dialogue: 0,0:05:53.48,0:05:56.84,Cart_A_Tre,,0000,0000,0000,,{\bord0\an2\pos(320,290)\c&H000000&\b1}Por: AC-bu{\b0}
+Dialogue: 0,0:05:54.08,0:05:56.56,Gen_Main,,0000,0000,0000,,Pop Team Epic.
+Dialogue: 0,0:05:57.25,0:05:59.76,Cart_A_Tre,,0000,0000,0000,,{\c&H73AD57&\fad(300,0)\fscy120\shad0\pos(338,101)}Bob Epic Team
+Dialogue: 0,0:05:57.54,0:05:59.50,Gen_Main,bob,0000,0000,0000,,Bob Epic Team.
+Dialogue: 0,0:05:58.40,0:05:59.76,Cart_A_Tre,,0000,0000,0000,,{\i0\c&HFFFFFF&\fs16\blur2\3c&HCB44EC&\b0\pos(172,53)}Nueva sección{\i1\b1}
+Dialogue: 0,0:06:00.38,0:06:01.96,Gen_Main,bob popuko,0000,0000,0000,,¿Dónde estoy?
+Dialogue: 0,0:06:02.13,0:06:03.98,Gen_Main,hombre,0000,0000,0000,,Eres una gema en bruto.
+Dialogue: 0,0:06:04.54,0:06:05.59,Gen_Main,bob popuko,0000,0000,0000,,¿De qué?
+Dialogue: 0,0:06:05.76,0:06:08.86,Gen_Main,hombre,0000,0000,0000,,Si hago esto y esto…
+Dialogue: 0,0:06:09.01,0:06:12.14,Gen_Main,hombre,0000,0000,0000,,¿Ves? Eres un genio, lo sabía.
+Dialogue: 0,0:06:12.76,0:06:13.96,Gen_Main,bob popuko,0000,0000,0000,,¿De qué?
+Dialogue: 0,0:06:14.22,0:06:16.23,Gen_Main,comentarista,0000,0000,0000,,-Primera ronda.\N-¡Ganaste!
+Dialogue: 0,0:06:14.22,0:06:16.23,Cart_A_Ari,,0000,0000,0000,,{\an5\bord0\shad0\c&H000000&\pos(520,103)}Primera ronda
+Dialogue: 0,0:06:14.22,0:06:24.23,Cart_A_Tre,,0000,0000,0000,,{\p1\bord0\an7\pos(422,90)\c&HFDFFFD&}m 0 0 l 192 0 192 30 0 30{\p0}
+Dialogue: 0,0:06:16.23,0:06:18.23,Cart_A_Ari,,0000,0000,0000,,{\an5\bord0\shad0\c&H000000&\pos(520,103)}Segunda ronda
+Dialogue: 0,0:06:16.44,0:06:18.23,Gen_Main,comentarista,0000,0000,0000,,-Segunda ronda.\N-¡Ganaste!
+Dialogue: 0,0:06:18.23,0:06:20.23,Cart_A_Ari,,0000,0000,0000,,{\an5\bord0\shad0\c&H000000&\pos(520,103)}Semifinal
+Dialogue: 0,0:06:18.39,0:06:20.23,Gen_Main,comentarista,0000,0000,0000,,-Semifinal.\N-¡Ganaste!
+Dialogue: 0,0:06:20.23,0:06:22.22,Cart_A_Ari,,0000,0000,0000,,{\an5\bord0\shad0\c&H000000&\pos(520,103)}Final
+Dialogue: 0,0:06:20.40,0:06:24.23,Gen_Main,comentarista,0000,0000,0000,,-Final.\N-¡Victoria!
+Dialogue: 0,0:06:21.76,0:06:24.23,Cart_A_Tim,,0000,0000,0000,,{\fad(200,0)\c&H1703AC&\shad2\fs50\blur1\3c&H63D7E9&\4c&H772F44&\pos(455,245)}Victoria
+Dialogue: 0,0:06:22.22,0:06:24.23,Cart_A_Ari,,0000,0000,0000,,{\an5\bord0\shad0\c&H000000&\fscx80\pos(520,103)}Entrega de premios
+Dialogue: 0,0:06:25.78,0:06:26.86,Gen_Main,bob popuko,0000,0000,0000,,¿De qué?
+Dialogue: 0,0:06:26.86,0:06:29.86,Cart_A_Tre,,0000,0000,0000,,{\bord0\an2\pos(320,290)\c&H000000&\b1}Por: Kamikaze Douga{\b0}
+Dialogue: 0,0:06:27.36,0:06:28.94,Gen_Main,,0000,0000,0000,,Pop Team Epic.
+Dialogue: 0,0:06:30.03,0:06:31.22,Gen_Main,popuko,0000,0000,0000,,No me tocó.
+Dialogue: 0,0:06:31.37,0:06:33.33,Gen_Main,pipimi,0000,0000,0000,,-Tíralo.\N-Adiós.
+Dialogue: 0,0:06:33.49,0:06:34.58,Gen_Main,popuko,0000,0000,0000,,Se rompió.
+Dialogue: 0,0:06:34.74,0:06:36.75,Gen_Main,pipimi,0000,0000,0000,,-Tíralo.\N-Adiós.
+Dialogue: 0,0:06:36.91,0:06:37.94,Gen_Main,popuko,0000,0000,0000,,Salió algo.
+Dialogue: 0,0:06:38.12,0:06:40.18,Gen_Main,pipimi,0000,0000,0000,,-Tíralo.\N-Adiós.
+Dialogue: 0,0:06:40.83,0:06:46.30,Gen_Main,popuko,0000,0000,0000,,¡Ya pueden descansar todos!
+Dialogue: 0,0:06:51.22,0:06:52.26,Gen_Main,pipimi,0000,0000,0000,,Cosas que pasan.
+Dialogue: 0,0:06:52.26,0:06:55.28,Cart_A_Tre,,0000,0000,0000,,{\bord0\an2\pos(320,290)\c&H000000&\b1}Por: K-ko Matsuda
+Dialogue: 0,0:06:52.93,0:06:54.64,Gen_Main,,0000,0000,0000,,Pop Team Epic.
+Dialogue: 0,0:06:56.10,0:06:58.28,Gen_Main,pipimi,0000,0000,0000,,Por fin comienza el nuevo segmento…
+Dialogue: 0,0:06:59.10,0:07:00.54,Gen_Main,popuko,0000,0000,0000,,…que todos esperaban.
+Dialogue: 0,0:07:01.73,0:07:04.28,Gen_Main,2,0000,0000,0000,,{\i1}Pop Team Epic B-Side.{\i0}
+Dialogue: 0,0:07:05.69,0:07:07.68,Gen_Main,popuko,0000,0000,0000,,¿Qué es esto? Qué gracioso.
+Dialogue: 0,0:07:07.86,0:07:09.16,Gen_Main,popuko,0000,0000,0000,,Otra vez.
+Dialogue: 0,0:07:09.32,0:07:10.72,Gen_Main,popuko,0000,0000,0000,,¡Qué gracioso!
+Dialogue: 0,0:07:10.86,0:07:15.28,Gen_Main,profesor,0000,0000,0000,,¡Popuoka!\N¡No traigas esas cosas a la escuela!
+Dialogue: 0,0:07:15.80,0:07:18.00,Gen_Main,pipimi,0000,0000,0000,,¿Necesitas algo de mi Popuoka?
+Dialogue: 0,0:07:19.37,0:07:21.26,Gen_Main,pipimi,0000,0000,0000,,Mira, tengo cuchillos de B*n.
+Dialogue: 0,0:07:21.42,0:07:22.42,Gen_Main,popuko,0000,0000,0000,,¡Es verdad!
+Dialogue: 0,0:07:24.04,0:07:26.42,Gen_Main,2,0000,0000,0000,,{\i1}Pop Team Epic B-Side.{\i0}
+Dialogue: 0,0:07:27.32,0:07:30.32,Cart_A_Tre,,0000,0000,0000,,{\bord0\an2\pos(320,290)\c&H000000&\b1}Por: Kamikaze Douga
+Dialogue: 0,0:07:28.01,0:07:29.72,Gen_Main,,0000,0000,0000,,Pop Team Epic.
+Dialogue: 0,0:07:30.97,0:07:35.26,Gen_Main,pipimi,0000,0000,0000,,¿Puedes mirar a la derecha\Ny a la izquierda a la vez?
+Dialogue: 0,0:07:35.47,0:07:37.32,Gen_Main,popuko,0000,0000,0000,,Pan comido.
+Dialogue: 0,0:07:48.57,0:07:50.46,Gen_Main,popuko,0000,0000,0000,,Y por eso te digo…
+Dialogue: 0,0:07:51.37,0:07:52.72,Gen_Main,popuko,0000,0000,0000,,¡Eso es imposible!
+Dialogue: 0,0:07:53.32,0:07:56.32,Cart_A_Tre,,0000,0000,0000,,{\bord0\an2\pos(320,290)\c&H000000&\b1}Por: Kamikaze Douga
+Dialogue: 0,0:07:53.78,0:07:55.16,Gen_Main,,0000,0000,0000,,Pop Team Epic.
+Dialogue: 0,0:07:57.95,0:08:00.52,Gen_Main,popuko,0000,0000,0000,,¡Deseo ser el centro de atención!
+Dialogue: 0,0:08:00.66,0:08:03.32,Gen_Main,popuko,0000,0000,0000,,Cambio la foto profesional\Nvarias veces al año.
+Dialogue: 0,0:08:07.09,0:08:08.34,Gen_Main,pipimi,0000,0000,0000,,Me gusta.
+Dialogue: 0,0:08:11.13,0:08:13.06,Gen_Main,pipimi,0000,0000,0000,,¡Deseo ser el centro de atención!
+Dialogue: 0,0:08:13.22,0:08:15.05,Gen_Main,pipimi,0000,0000,0000,,¡Subo selfis de hace tiempo!
+Dialogue: 0,0:08:15.22,0:08:16.56,Gen_Main,popuko,0000,0000,0000,,¿Qué harás?
+Dialogue: 0,0:08:17.43,0:08:18.56,Gen_Main,2,0000,0000,0000,,Me gusta.
+Dialogue: 0,0:08:19.31,0:08:22.30,Cart_A_Tre,,0000,0000,0000,,{\bord0\an2\pos(320,290)\c&H000000&\b1}Por: Kamikaze Douga
+Dialogue: 0,0:08:19.93,0:08:21.56,Gen_Main,,0000,0000,0000,,Pop Team Epic.
+Dialogue: 0,0:08:23.02,0:08:25.10,Gen_Main,popuko,0000,0000,0000,,Se me ocurrió un {\i1}senryu{\i0}.
+Dialogue: 0,0:08:25.27,0:08:26.70,Gen_Main,pipimi,0000,0000,0000,,Adelante.
+Dialogue: 0,0:08:27.61,0:08:28.90,Gen_Main,popuko,0000,0000,0000,,Cállate ya.
+Dialogue: 0,0:08:29.07,0:08:30.66,Gen_Main,popuko,0000,0000,0000,,Cierra el pico.
+Dialogue: 0,0:08:30.82,0:08:32.00,Gen_Main,popuko,0000,0000,0000,,Cállate ya.
+Dialogue: 0,0:08:32.65,0:08:33.78,Gen_Main,popuko,0000,0000,0000,,Popuko.
+Dialogue: 0,0:08:34.28,0:08:35.70,Gen_Main,pipimi,0000,0000,0000,,Suena horrible.
+Dialogue: 0,0:08:35.86,0:08:38.36,Gen_Main,pipimi,0000,0000,0000,,Es de una calidad megapésima.
+Dialogue: 0,0:08:39.33,0:08:40.52,Gen_Main,pipimi,0000,0000,0000,,Pipimi.
+Dialogue: 0,0:08:41.95,0:08:43.12,Gen_Main,popuko,0000,0000,0000,,¿Eh?
+Dialogue: 0,0:08:43.29,0:08:44.68,Gen_Main,popuko,0000,0000,0000,,No me lo creo.
+Dialogue: 0,0:08:45.00,0:08:47.40,Gen_Main,popuko,0000,0000,0000,,Lo leí con confianza.
+Dialogue: 0,0:08:47.54,0:08:48.60,Gen_Main,popuko,0000,0000,0000,,Popuko.
+Dialogue: 0,0:08:48.92,0:08:50.12,Gen_Main,pipimi,0000,0000,0000,,No llores, cielo.
+Dialogue: 0,0:08:50.30,0:08:52.54,Gen_Main,pipimi,0000,0000,0000,,Las lágrimas no te pegan nada.
+Dialogue: 0,0:08:52.71,0:08:53.94,Gen_Main,pipimi,0000,0000,0000,,Pipimi.
+Dialogue: 0,0:08:54.96,0:08:57.97,Cart_A_Tre,,0000,0000,0000,,{\bord0\an2\pos(320,290)\c&H000000&\b1}Por: Ryo Yamashita
+Dialogue: 0,0:08:55.13,0:08:57.44,Gen_Main,,0000,0000,0000,,Pop Team Epic.
+Dialogue: 0,0:09:02.10,0:09:04.90,Gen_Italics,yasu,0000,0000,0000,,Jefa Pipi, no nos da una coartada.
+Dialogue: 0,0:09:05.89,0:09:07.64,Gen_Italics,pipimi,0000,0000,0000,,Déjamelo a mí.
+Dialogue: 1,0:09:07.65,0:09:09.05,Cart_A_Tre,,0000,0000,0000,,{\p1\bord0\an7\c&H050805&\pos(396,47)}m 0 0 l 120 0 120 190 0 190{\p0}
+Dialogue: 2,0:09:07.65,0:09:09.05,Cart_A_Tre,,0000,0000,0000,,{\bord0\shad0\blur0.5\fs18\an7\pos(399,53)\b0}Moverse\NHablar\NInvestigar\NMostrar\NBuscar\NLlamar\NDetener{\b1}
+Dialogue: 0,0:09:10.02,0:09:12.34,Gen_Italics,yasu,0000,0000,0000,,Sala de interrogatorios.
+Dialogue: 1,0:09:11.14,0:09:12.64,Cart_A_Tre,,0000,0000,0000,,{\p1\bord0\an7\c&H050805&\pos(396,47)}m 0 0 l 120 0 120 190 0 190{\p0}
+Dialogue: 2,0:09:11.14,0:09:12.64,Cart_A_Tre,,0000,0000,0000,,{\bord0\shad0\blur0.5\fs18\an7\pos(399,53)\b0}Moverse\NHablar\NInvestigar\NMostrar\NBuscar\NLlamar\NDetener{\b1}
+Dialogue: 0,0:09:12.65,0:09:13.65,Gen_Italics,yasu,0000,0000,0000,,¿A quién llamas?
+Dialogue: 1,0:09:13.14,0:09:13.85,Cart_A_Tre,,0000,0000,0000,,{\p1\bord0\an7\c&H050805&\pos(396,47)}m 0 0 l 120 0 120 190 0 190{\p0}
+Dialogue: 2,0:09:13.14,0:09:13.85,Cart_A_Tre,,0000,0000,0000,,{\bord0\shad0\blur0.5\fs18\an7\pos(399,53)\b0}Popu{\b1}
+Dialogue: 0,0:09:13.82,0:09:14.82,Gen_Italics,pipimi/popuko,0000,0000,0000,,-Popu.\N-¿Sí?
+Dialogue: 0,0:09:14.99,0:09:16.28,Gen_Italics,pipimi,0000,0000,0000,,Fuiste tú, ¿verdad?
+Dialogue: 0,0:09:17.20,0:09:19.80,Gen_Italics,pipimi,0000,0000,0000,,Fuiste tú, ¿verdad?
+Dialogue: 0,0:09:19.95,0:09:22.38,Gen_Italics,yasu,0000,0000,0000,,Creo que te estás pasando, jefa.
+Dialogue: 0,0:09:22.54,0:09:23.76,Gen_Italics,pipimi,0000,0000,0000,,Fuiste tú.
+Dialogue: 0,0:09:24.45,0:09:27.10,Gen_Italics,pipimi,0000,0000,0000,,¡Fuiste tú!
+Dialogue: 0,0:09:27.25,0:09:28.36,Gen_Italics,yasu,0000,0000,0000,,¡No!
+Dialogue: 0,0:09:28.54,0:09:32.02,Gen_Italics,yasu,0000,0000,0000,,Por favor, ordene detener\Nla investigación, jefa.
+Dialogue: 0,0:09:32.17,0:09:33.95,Gen_Italics,pipimi,0000,0000,0000,,¡Cállate! El culpable…
+Dialogue: 1,0:09:33.95,0:09:39.43,Cart_A_Tre,,0000,0000,0000,,{\p1\bord0\an8\c&H050805&\pos(312,219)}m 0 0 l 250 0 250 120 0 120{\p0}
+Dialogue: 2,0:09:33.95,0:09:39.43,Cart_A_Tre,,0000,0000,0000,,{\bord0\shad0\blur0.5\fs18\an8\b0\pos(320,225)}Asesinatos en serie de Portopia.\NColaboración con Pop Team Epic.\N\N\NFin
+Dialogue: 0,0:09:39.43,0:09:42.56,Cart_A_Tre,,0000,0000,0000,,{\bord0\an2\pos(320,290)\c&H000000&\b1}Por: Space Neko Company
+Dialogue: 0,0:09:39.47,0:09:41.80,Gen_Italics,,0000,0000,0000,,Pop Team Epic.
+Dialogue: 0,0:09:42.72,0:09:45.66,Gen_Main,popuko,0000,0000,0000,,Vamos a luchar\Ncon personalidades retrasadas.
+Dialogue: 0,0:09:45.85,0:09:47.06,Gen_Main,pipimi,0000,0000,0000,,Buena idea.
+Dialogue: 0,0:09:47.06,0:09:49.56,Cart_A_Ari,,0000,0000,0000,,{\c&H2D8DE4&\3c&H000737&\shad2\fad(200,0)\4c&H1A1F3A&\frx10\fry0}Personalidades retrasadas
+Dialogue: 0,0:09:49.73,0:09:50.94,Gen_Main,popuko,0000,0000,0000,,¡Allá voy!
+Dialogue: 0,0:10:05.16,0:10:12.28,Gen_Italics,,0000,0000,0000,,Vamos a jugar con nuestros deditos.
+Dialogue: 0,0:10:12.46,0:10:19.92,Gen_Italics,,0000,0000,0000,,Solo necesitas un dedito.
+Dialogue: 0,0:10:20.09,0:10:27.47,Gen_Italics,,0000,0000,0000,,Uno más uno son dos.
+Dialogue: 0,0:10:27.64,0:10:34.34,Gen_Italics,,0000,0000,0000,,Vamos, hagamos esto juntas.
+Dialogue: 0,0:10:34.48,0:10:41.93,Gen_Italics,,0000,0000,0000,,Solo somos dos guisantes, solo somos\Ndos guisantes, guisantes, gui, gui, gui.
+Dialogue: 0,0:10:42.07,0:10:49.48,Gen_Italics,,0000,0000,0000,,Solo somos dos guisantes, solo somos\Ndos guisantes, guisantes, gui, gui, gui.
+Dialogue: 0,0:10:49.62,0:10:56.95,Gen_Italics,,0000,0000,0000,,Solo somos dos guisantes, solo somos\Ndos guisantes, guisantes, gui, gui, gui.
+Dialogue: 0,0:10:57.13,0:11:03.96,Gen_Italics,,0000,0000,0000,,No me seas infiel.
+Dialogue: 0,0:11:05.64,0:11:50.02,Cart_A_Tre,,0000,0000,0000,,{\c&HF345D8&\3c&HFCFFFF&\bord2\fnComic Sans MS\4c&H986688&\shad1.5\pos(98,69)}¡{\c&HDCB03E&}Esta {\c&H08E1E1&}serie {\c&H140AD3&}de {\c&H39A741&}mier{\c&HEF0818&}da{\c&H0388FF&}!
+Dialogue: 0,0:11:05.64,0:11:50.02,Cart_A_Tre,,0000,0000,0000,,{\3c&H518334&\bord1\shad1\c&HDDFFFF&\fs18\fscx90\blur1\b1\4c&H204F0C&\pos(497,271)}¿Comprarás el BD de Pop Team Epic 2?{\b0}
+Dialogue: 0,0:11:06.31,0:11:07.90,Gen_Main,popuko,0000,0000,0000,,Ya podemos hablar.
+Dialogue: 0,0:11:08.06,0:11:10.12,Gen_Main,pipimi/popuko,0000,0000,0000,,-¿Ah, sí?\N-Eso parece.
+Dialogue: 0,0:11:10.27,0:11:14.42,Gen_Main,popuko,0000,0000,0000,,Nos llamaron a nosotras\Npor {\i1}H*nter x H*nter{\i0}, ¿no?
+Dialogue: 0,0:11:15.07,0:11:16.32,Gen_Main,pipimi,0000,0000,0000,,Seguro que sí.
+Dialogue: 0,0:11:16.48,0:11:19.08,Gen_Main,popuko,0000,0000,0000,,Sí. Y es el momento apropiado.
+Dialogue: 0,0:11:19.24,0:11:20.38,Gen_Main,pipimi,0000,0000,0000,,Pues sí.
+Dialogue: 0,0:11:20.53,0:11:22.36,Gen_Main,popuko,0000,0000,0000,,Es prácticamente milagroso.
+Dialogue: 0,0:11:22.53,0:11:24.04,Gen_Main,pipimi/popuko,0000,0000,0000,,-Qué alegría.\N-Sí.
+Dialogue: 0,0:11:24.20,0:11:27.10,Gen_Main,popuko,0000,0000,0000,,Somos G*n y K*llua.
+Dialogue: 0,0:11:27.24,0:11:28.36,Gen_Main,pipimi,0000,0000,0000,,Así es.
+Dialogue: 0,0:11:28.49,0:11:29.60,Gen_Main,popuko,0000,0000,0000,,Sí.
+Dialogue: 0,0:11:29.75,0:11:33.82,Gen_Main,popuko,0000,0000,0000,,Seguro que lo censuran, así que yo sigo.
+Dialogue: 0,0:11:34.00,0:11:37.08,Gen_Main,pipimi,0000,0000,0000,,Oí que a Bukubu\Nle encanta {\i1}H*nter x H*nter{\i0}.
+Dialogue: 0,0:11:37.25,0:11:40.22,Gen_Main,popuko,0000,0000,0000,,Lo sé. Hace poco subió\Nuna ilustración de Ill*mi.
+Dialogue: 0,0:11:40.84,0:11:42.10,Gen_Main,pipimi,0000,0000,0000,,¿En serio?
+Dialogue: 0,0:11:42.26,0:11:43.84,Gen_Main,popuko,0000,0000,0000,,Me alegra saberlo.
+Dialogue: 0,0:11:44.01,0:11:48.14,Gen_Main,pipimi,0000,0000,0000,,Pues sí. Hablando de Twitter,\NT*gashi ya tiene uno.
+Dialogue: 0,0:11:48.31,0:11:49.70,Gen_Main,popuko,0000,0000,0000,,Sí. Se alinea todo.
+Dialogue: 0,0:11:50.02,0:11:55.02,Cart_A_Tre,,0000,0000,0000,,{\fad(0,500)\bord1\an8\shad0\fs18\pos(562,48)\b0\3c&H373739&}Reemisión{\b1}
+Dialogue: 0,0:11:50.03,0:11:53.01,Cart_A_Tre,,0000,0000,0000,,{\bord0\an2\pos(320,290)\c&H000000&\b1}Por: Kamikaze Douga
+Dialogue: 0,0:11:50.52,0:11:52.68,Gen_Main,,0000,0000,0000,,Pop Team Epic.
+Dialogue: 0,0:11:55.56,0:11:57.02,Gen_Main,popuko,0000,0000,0000,,Eso duele.
+Dialogue: 0,0:11:57.86,0:12:01.11,Gen_Main,popuko,0000,0000,0000,,¡Cha, cha, cha beam!
+Dialogue: 0,0:12:05.12,0:12:07.62,Gen_Main,popuko,0000,0000,0000,,¿Lo conseguí? ¡Eh!
+Dialogue: 0,0:12:09.62,0:12:11.71,Cart_A_Tre,,0000,0000,0000,,{\c&H000000&\3c&HD7EEFA&\fs14\fscx80\pos(379,76)}Lo conseguiste
+Dialogue: 0,0:12:11.75,0:12:14.29,Cart_A_Tre,,0000,0000,0000,,{\c&H000000&\fad(100,0)\3c&HD7EEFA&\fs14\fscx80\pos(236,66)\frz8.471}Lo conseguiste
+Dialogue: 0,0:12:12.08,0:12:13.74,Gen_Main,popuko,0000,0000,0000,,¡Viva!
+Dialogue: 0,0:12:34.48,0:12:36.31,Gen_Italics,OP Lyrics,0000,0000,0000,,Encontré el camino al cielo.
+Dialogue: 0,0:12:36.48,0:12:37.94,Gen_Italics,OP Lyrics,0000,0000,0000,,Mi vida pasada contigo.
+Dialogue: 0,0:12:38.11,0:12:39.59,Gen_Italics,OP Lyrics,0000,0000,0000,,Viste los ojos del cielo.
+Dialogue: 0,0:12:39.73,0:12:41.31,Gen_Italics,OP Lyrics,0000,0000,0000,,Confesiones infinitas.
+Dialogue: 0,0:12:41.49,0:12:43.07,Gen_Italics,OP Lyrics,0000,0000,0000,,Estuve en el séptimo cielo.
+Dialogue: 0,0:12:43.24,0:12:44.60,Gen_Italics,OP Lyrics,0000,0000,0000,,El conflicto se acelera.
+Dialogue: 0,0:12:44.78,0:12:47.86,Gen_Italics,OP Lyrics,0000,0000,0000,,Por todos los cielos…\NTus motivos para vivir son abstractos.
+Dialogue: 0,0:12:48.03,0:12:51.05,Gen_Italics,OP Lyrics,0000,0000,0000,,Mira, cariño, qué peligro.
+Dialogue: 0,0:12:51.20,0:12:54.55,Gen_Italics,OP Lyrics,0000,0000,0000,,Problemas al máximo, con tu cara de póker.
+Dialogue: 0,0:12:54.71,0:12:57.73,Gen_Italics,OP Lyrics,0000,0000,0000,,Mira, cariño, es ridículo.
+Dialogue: 0,0:12:57.88,0:13:01.52,Gen_Italics,OP Lyrics,0000,0000,0000,,La vida es como una burbuja\Nentre los sueños y la realidad.
+Dialogue: 0,0:13:02.05,0:13:06.53,Gen_Italics,OP Lyrics,0000,0000,0000,,¿Qué es lo que sientes?
+Dialogue: 0,0:13:06.68,0:13:09.03,Gen_Italics,OP Lyrics,0000,0000,0000,,Para siempre.
+Dialogue: 0,0:13:09.18,0:13:14.76,Gen_Italics,OP Lyrics,0000,0000,0000,,Suena antimundo.
+Dialogue: 0,0:13:14.94,0:13:19.16,Gen_Italics,OP Lyrics,0000,0000,0000,,La salida. ¿O qué te crees?
+Dialogue: 0,0:13:19.31,0:13:21.46,Gen_Italics,OP Lyrics,0000,0000,0000,,La ecuación del espejo.
+Dialogue: 0,0:13:21.61,0:13:25.83,Gen_Italics,OP Lyrics,0000,0000,0000,,Despierta, ya no puedo ni pensar.
+Dialogue: 0,0:13:25.99,0:13:28.09,Gen_Italics,OP Lyrics,0000,0000,0000,,Una elegante PSYCHO:LOGY.
+Dialogue: 0,0:13:28.24,0:13:32.51,Gen_Italics,OP Lyrics,0000,0000,0000,,La salida. ¿Qué puedes ver?
+Dialogue: 0,0:13:32.66,0:13:35.72,Gen_Italics,OP Lyrics,0000,0000,0000,,Un exceso de ironía.
+Dialogue: 0,0:13:40.79,0:13:45.13,Cart_A_Tre,Sign,0000,0000,0000,,{\p1\shad0\bord3.5\fad(100,0)\an8\pos(320,70)\3c&HFFFFFF&}m 0 0 l 302 0 302 26 0 26{\p0}
+Dialogue: 0,0:13:40.79,0:13:45.13,Cart_A_Tre,Sign,0000,0000,0000,,{\p1\shad0\bord1.5\fad(100,0)\an8\pos(320,70)}m 0 0 l 302 0 302 26 0 26{\p0}
+Dialogue: 0,0:13:40.79,0:13:45.13,Cart_A_Tre,Sign,0000,0000,0000,,{\3c&HFFFFFF&\shad0\fad(100,0)\an2\b0\bord0\fs18\fnTimes New Roman\c&H000000&\pos(320,91)}\hSegunda temporada de la serie de animación\h
+Dialogue: 0,0:13:45.12,0:13:48.62,Cart_TitleEp,,0000,0000,0000,,Combates de tren
+Dialogue: 0,0:13:48.80,0:13:51.14,Gen_Main,popuko,0000,0000,0000,,Qué aburrimiento.
+Dialogue: 0,0:13:51.85,0:13:54.96,Gen_Main,popuko,0000,0000,0000,,Ya sé. Voy a ir a Kioto.
+Dialogue: 0,0:13:56.23,0:14:00.38,Gen_Main,popuko,0000,0000,0000,,Compraré un montón de piedras\Npara las aceras.
+Dialogue: 0,0:14:02.31,0:14:03.68,Cart_TitleEp,,0000,0000,0000,,{\pos(345,122)\bord3}Andén del tren bala{\fs18} (Centro)
+Dialogue: 0,0:14:08.95,0:14:11.65,Gen_Main,popuko,0000,0000,0000,,Perdone, ¿puedo reclinar el asiento?
+Dialogue: 0,0:14:11.83,0:14:15.54,Gen_Main,pipimi,0000,0000,0000,,Ni hablar, jovenzuela.
+Dialogue: 0,0:14:16.62,0:14:19.75,Gen_Main,popuko,0000,0000,0000,,¿Y si te derroto a ti primero?
+Dialogue: 0,0:14:21.22,0:14:23.71,Gen_Main,pipimi,0000,0000,0000,,La rana del pozo no conoce el océano.
+Dialogue: 0,0:14:24.59,0:14:27.13,Gen_Main,pipimi,0000,0000,0000,,Qué interesante. Acepto el reto.
+Dialogue: 0,0:14:27.30,0:14:29.13,Gen_Main,conductor,0000,0000,0000,,¿Ambas están de acuerdo?
+Dialogue: 0,0:14:29.59,0:14:31.19,Gen_Main,2,0000,0000,0000,,¡Combate de tren!
+Dialogue: 0,0:14:31.19,0:14:31.60,Cart_A_Tim,,0000,0000,0000,,{\shad0\c&HCFC1AA&\pos(320,107)}El tiempo en Tokio es…
+Dialogue: 0,0:14:31.60,0:14:32.21,Cart_A_Tim,,0000,0000,0000,,{\shad0\c&H2704CA&\pos(320,107)}Alerta   Alerta
+Dialogue: 0,0:14:31.76,0:14:36.19,Gen_Italics,conductor,0000,0000,0000,,Se acaba de declarar un combate de tren.
+Dialogue: 0,0:14:33.47,0:14:36.42,Cart_A_Tim,,0000,0000,0000,,{\shad0\c&H2704CA&\3c&H1B173A&\fax-0.3\blur2\an6\frx0\fry44\pos(567,280)\org(452,273)\frz358.8}Se declaró un combate de tren
+Dialogue: 0,0:14:36.43,0:14:40.01,Gen_Italics,conductor,0000,0000,0000,,Pasajeros del sexto vagón,\Npor favor, desplácense.
+Dialogue: 0,0:14:40.19,0:14:45.01,Gen_Italics,conductor,0000,0000,0000,,El combate se retransmitirá\Nen las pantallas del vagón dos.
+Dialogue: 0,0:14:45.82,0:14:48.74,Gen_Main,popuko,0000,0000,0000,,Luego no te arrepientas, viejo.
+Dialogue: 0,0:14:50.24,0:14:51.81,Gen_Main,pipimi,0000,0000,0000,,Te enseñaré modales.
+Dialogue: 0,0:14:51.99,0:14:55.02,Gen_Italics,conductor,0000,0000,0000,,Que empiece el combate de tren.
+Dialogue: 0,0:15:03.88,0:15:04.88,Gen_Main,pipimi,0000,0000,0000,,Qué fácil.
+Dialogue: 0,0:15:10.93,0:15:12.47,Gen_Main,popuko,0000,0000,0000,,¡No veo!
+Dialogue: 0,0:15:12.64,0:15:13.72,Gen_Main,pipimi,0000,0000,0000,,Eso es.
+Dialogue: 0,0:15:14.64,0:15:17.35,Gen_Main,popuko,0000,0000,0000,,Qué duro está.
+Dialogue: 0,0:15:17.52,0:15:21.65,Gen_Main,popuko,0000,0000,0000,,¿Cómo se llamaba ese comediante calvo?
+Dialogue: 0,0:15:21.81,0:15:22.99,Gen_Main,pipimi/popuko,0000,0000,0000,,-¿Quién?\N-¡Ahora!
+Dialogue: 0,0:15:34.62,0:15:38.77,Gen_Italics,conductor,0000,0000,0000,,Cayeron ambas.\NGanará la que se levante primero.
+Dialogue: 0,0:15:42.12,0:15:46.19,Gen_Main,pipimi,0000,0000,0000,,Las dos recibimos el mismo daño.
+Dialogue: 0,0:15:49.92,0:15:52.75,Gen_Main,pipimi,0000,0000,0000,,Imposible. Con esas heridas…
+Dialogue: 0,0:15:54.51,0:15:56.17,Gen_Main,popuko,0000,0000,0000,,Mira por la ventana.
+Dialogue: 0,0:15:56.76,0:15:58.41,Gen_Main,pipimi,0000,0000,0000,,¿Por la ventana?
+Dialogue: 0,0:16:03.35,0:16:06.13,Gen_Main,pipimi,0000,0000,0000,,¡El Doctor Y*llow!
+Dialogue: 0,0:16:06.48,0:16:09.93,Gen_Main,popuko,0000,0000,0000,,Dicen que ver el Doctor Y*llow\Nte da suerte.
+Dialogue: 0,0:16:10.11,0:16:13.86,Gen_Main,popuko,0000,0000,0000,,Parece que la diosa de la fortuna\Nestaba de mi lado.
+Dialogue: 0,0:16:14.53,0:16:18.83,Gen_Italics,conductor,0000,0000,0000,,La vencedora es Popuko. Popuko.
+Dialogue: 0,0:16:15.62,0:16:19.45,Cart_A_Ari,,0000,0000,0000,,{\c&HCDFFFF&\blur1\bord1\fad(500,0)\3c&H4E8EC0&\fs36\pos(320,60)}Popuko
+Dialogue: 0,0:16:22.00,0:16:25.57,Gen_Main,pipimi,0000,0000,0000,,Perdí. Me derrotaste.
+Dialogue: 0,0:16:26.17,0:16:31.37,Gen_Main,pipimi,0000,0000,0000,,Yo también era una combatiente\Nde tren imprudente, como tú.
+Dialogue: 0,0:16:32.01,0:16:34.89,Gen_Main,popuko,0000,0000,0000,,Eso es un cenicero.
+Dialogue: 0,0:16:34.87,0:16:41.31,Cart_A_Ari,,0000,0000,0000,,{\c&H0AABDA&\fs18\fscx90\bord1\move(476,205,454,205,27,6409)}Cenicero
+Dialogue: 0,0:16:34.87,0:16:41.31,Cart_A_Ari,,0000,0000,0000,,{\c&H0AABDA&\fs18\fscx90\bord1\move(257,204,235,204,27,6409)}Cenicero
+Dialogue: 0,0:16:34.87,0:16:41.31,Cart_A_Ari,,0000,0000,0000,,{\c&H0AABDA&\fs14\fscx90\bord1\move(188,164,166,164,27,6409)}Cenicero
+Dialogue: 0,0:16:35.05,0:16:38.66,Gen_Main,pipimi,0000,0000,0000,,El tren bala era la personificación\Nde la pasión de la era Showa,
+Dialogue: 0,0:16:38.81,0:16:41.30,Gen_Main,pipimi,0000,0000,0000,,cuando Japón crecía económicamente.
+Dialogue: 0,0:16:41.31,0:16:52.31,Cart_A_Ari,,0000,0000,0000,,{\c&H0AABDA&\fs18\fscx90\bord1\move(491,212,471,212)}Cenicero
+Dialogue: 0,0:16:41.31,0:16:52.31,Cart_A_Ari,,0000,0000,0000,,{\c&H0AABDA&\fs18\fscx90\bord1\move(247,213,227,213)}Cenicero
+Dialogue: 0,0:16:41.47,0:16:45.06,Gen_Main,pipimi,0000,0000,0000,,El humo del tabaco cubría los vagones
+Dialogue: 0,0:16:45.23,0:16:48.66,Gen_Main,pipimi,0000,0000,0000,,y los oficinistas exaltados se peleaban.
+Dialogue: 0,0:16:48.82,0:16:52.33,Gen_Main,pipimi,0000,0000,0000,,Ahí nacieron los combates de tren.
+Dialogue: 0,0:16:53.28,0:16:55.48,Gen_Italics,pipimi,0000,0000,0000,,Tenía miedo.
+Dialogue: 0,0:16:55.82,0:16:59.88,Gen_Italics,pipimi,0000,0000,0000,,Miedo de que todo lo que generó\Nla cultura de la era Showa
+Dialogue: 0,0:17:00.20,0:17:05.21,Gen_Italics,pipimi,0000,0000,0000,,fuera eliminado ilógica, impropia\Ny desconsideradamente.
+Dialogue: 0,0:17:05.87,0:17:12.12,Gen_Main,pipimi,0000,0000,0000,,Me alegro de que aún haya\Ncombatientes de tren como tú.
+Dialogue: 0,0:17:12.30,0:17:13.41,Gen_Main,popuko,0000,0000,0000,,¿Qué quieres decir?
+Dialogue: 0,0:17:14.13,0:17:16.52,Gen_Main,pipimi,0000,0000,0000,,Te confío mi sueño.
+Dialogue: 0,0:17:16.80,0:17:22.92,Gen_Main,pipimi,0000,0000,0000,,Los recuerdos de los que luchamos\Nen la era Showa.
+Dialogue: 0,0:17:24.39,0:17:29.56,Gen_Main,popuko,0000,0000,0000,,Qué remedio. Supongo que puedo\Nayudarlo a cumplir su sueño.
+Dialogue: 0,0:17:29.86,0:17:35.92,Gen_Main,popuko,0000,0000,0000,,¡Seré la mejor combatiente\Nde tren de Japón!
+Dialogue: 0,0:17:43.54,0:17:46.87,Cart_A_Tre,,0000,0000,0000,,{\bord0\an2\pos(320,290)\c&H000000&\b1}Por: AC-bu{\b0}
+Dialogue: 0,0:17:44.00,0:17:46.04,Gen_Main,,0000,0000,0000,,Pop Team Epic.
+Dialogue: 0,0:17:47.29,0:17:49.79,Cart_A_Tre,,0000,0000,0000,,{\c&H73AD57&\fad(300,0)\fscy120\shad0\pos(338,101)}Bob Epic Team
+Dialogue: 0,0:17:47.58,0:17:49.53,Gen_Main,bob,0000,0000,0000,,Bob Epic Team.
+Dialogue: 0,0:17:48.46,0:17:49.79,Cart_A_Tre,,0000,0000,0000,,{\i0\c&HFFFFFF&\fs16\blur2\3c&HCB44EC&\b0\pos(172,53)}Nueva sección{\i1\b1}
+Dialogue: 0,0:17:50.42,0:17:51.99,Gen_Main,bob popuko,0000,0000,0000,,¿Dónde estoy?
+Dialogue: 0,0:17:52.17,0:17:54.01,Gen_Main,hombre,0000,0000,0000,,Eres una gema en bruto.
+Dialogue: 0,0:17:54.60,0:17:55.62,Gen_Main,bob popuko,0000,0000,0000,,¿De qué?
+Dialogue: 0,0:17:55.80,0:17:58.89,Gen_Main,hombre,0000,0000,0000,,Si hago esto y esto…
+Dialogue: 0,0:17:59.05,0:18:02.17,Gen_Main,hombre,0000,0000,0000,,¿Ves? Eres un genio, lo sabía.
+Dialogue: 0,0:18:02.81,0:18:03.99,Gen_Main,bob popuko,0000,0000,0000,,¿De qué?
+Dialogue: 0,0:18:04.25,0:18:06.26,Cart_A_Ari,,0000,0000,0000,,{\an5\bord0\shad0\c&H000000&\pos(520,103)}Primera ronda
+Dialogue: 0,0:18:04.25,0:18:14.26,Cart_A_Tre,,0000,0000,0000,,{\p1\bord0\an7\pos(422,90)\c&HFDFFFD&}m 0 0 l 192 0 192 30 0 30{\p0}
+Dialogue: 0,0:18:04.27,0:18:06.27,Gen_Main,comentarista,0000,0000,0000,,-Primera ronda.\N-¡Ganaste!
+Dialogue: 0,0:18:06.26,0:18:08.26,Cart_A_Ari,,0000,0000,0000,,{\an5\bord0\shad0\c&H000000&\pos(520,103)}Segunda ronda
+Dialogue: 0,0:18:06.43,0:18:08.26,Gen_Main,comentarista,0000,0000,0000,,-Segunda ronda.\N-¡Ganaste!
+Dialogue: 0,0:18:08.26,0:18:10.26,Cart_A_Ari,,0000,0000,0000,,{\an5\bord0\shad0\c&H000000&\pos(520,103)}Semifinal
+Dialogue: 0,0:18:08.44,0:18:10.26,Gen_Main,comentarista,0000,0000,0000,,-Semifinal.\N-¡Ganaste!
+Dialogue: 0,0:18:10.26,0:18:12.26,Cart_A_Ari,,0000,0000,0000,,{\an5\bord0\shad0\c&H000000&\pos(520,103)}Final
+Dialogue: 0,0:18:10.44,0:18:14.26,Gen_Main,comentarista,0000,0000,0000,,-Final.\N-¡Victoria!
+Dialogue: 0,0:18:11.79,0:18:14.26,Cart_A_Tim,,0000,0000,0000,,{\fad(200,0)\c&H1703AC&\shad2\fs50\blur1\3c&H63D7E9&\4c&H772F44&\pos(455,245)}Victoria
+Dialogue: 0,0:18:12.26,0:18:14.26,Cart_A_Ari,,0000,0000,0000,,{\an5\bord0\shad0\c&H000000&\fscx80\pos(520,103)}Entrega de premios
+Dialogue: 0,0:18:15.82,0:18:16.91,Gen_Main,bob popuko,0000,0000,0000,,¿De qué?
+Dialogue: 0,0:18:16.89,0:18:19.89,Cart_A_Tre,,0000,0000,0000,,{\bord0\an2\pos(320,290)\c&H000000&\b1}Por: Kamikaze Douga{\b0}
+Dialogue: 0,0:18:17.40,0:18:18.97,Gen_Main,,0000,0000,0000,,Pop Team Epic.
+Dialogue: 0,0:18:20.07,0:18:21.25,Gen_Main,popuko,0000,0000,0000,,No me tocó.
+Dialogue: 0,0:18:21.41,0:18:23.37,Gen_Main,pipimi,0000,0000,0000,,-Tíralo.\N-Adiós.
+Dialogue: 0,0:18:23.54,0:18:24.61,Gen_Main,popuko,0000,0000,0000,,Se rompió.
+Dialogue: 0,0:18:24.79,0:18:26.78,Gen_Main,pipimi,0000,0000,0000,,-Tíralo.\N-Adiós.
+Dialogue: 0,0:18:26.96,0:18:27.97,Gen_Main,popuko,0000,0000,0000,,Salió algo.
+Dialogue: 0,0:18:28.29,0:18:30.21,Gen_Main,pipimi,0000,0000,0000,,-Tíralo.\N-Adiós.
+Dialogue: 0,0:18:38.13,0:18:40.04,Gen_Main,popuko,0000,0000,0000,,¿Por qué nos pasa esto?
+Dialogue: 0,0:18:40.97,0:18:42.29,Gen_Main,pipimi,0000,0000,0000,,Estoy vacía.
+Dialogue: 0,0:18:42.29,0:18:45.31,Cart_A_Tre,,0000,0000,0000,,{\bord0\an2\pos(320,290)\c&H000000&\b1}Por: K-ko Matsuda
+Dialogue: 0,0:18:42.47,0:18:43.47,Gen_Main,popuko,0000,0000,0000,,Pues sí.
+Dialogue: 0,0:18:45.81,0:18:48.31,Gen_Main,pipimi,0000,0000,0000,,Por fin comienza el nuevo segmento…
+Dialogue: 0,0:18:48.48,0:18:51.06,Gen_Main,popuko,0000,0000,0000,,…que todos esperaban.
+Dialogue: 0,0:18:51.35,0:18:54.82,Gen_Main,2,0000,0000,0000,,{\i1}Pop Team Epic B-Side.{\i0}
+Dialogue: 0,0:18:54.98,0:19:00.94,Gen_Main,popuko,0000,0000,0000,,Sé bueno. Vamos, mira. Vamos allá.
+Dialogue: 0,0:19:01.11,0:19:05.33,Gen_Main,profesor,0000,0000,0000,,¡Popuoka!\N¡No traigas esas cosas a la escuela!
+Dialogue: 0,0:19:10.21,0:19:11.29,Gen_Main,pipimi,0000,0000,0000,,Ven aquí.
+Dialogue: 0,0:19:13.50,0:19:17.12,Gen_Main,2,0000,0000,0000,,{\i1}Pop Team Epic B-Side.{\i0}
+Dialogue: 0,0:19:17.35,0:19:20.35,Cart_A_Tre,,0000,0000,0000,,{\bord0\an2\pos(320,290)\c&H000000&\b1}Por: Kamikaze Douga
+Dialogue: 0,0:19:18.05,0:19:19.75,Gen_Main,,0000,0000,0000,,Pop Team Epic.
+Dialogue: 0,0:19:21.34,0:19:25.35,Gen_Main,pipimi,0000,0000,0000,,¿Puedes mirar a la derecha\Ny a la izquierda a la vez?
+Dialogue: 0,0:19:25.51,0:19:27.80,Gen_Main,popuko,0000,0000,0000,,Pan comido.
+Dialogue: 0,0:19:35.61,0:19:37.28,Gen_Main,popuko,0000,0000,0000,,¡Tú puedes!
+Dialogue: 0,0:19:40.49,0:19:43.36,Gen_Main,popuko/pipimi,0000,0000,0000,,-¡Lo hice!\N-Deberías decir "es imposible".
+Dialogue: 0,0:19:43.35,0:19:46.37,Cart_A_Tre,,0000,0000,0000,,{\bord0\an2\pos(320,290)\c&H000000&\b1}Por: Kamikaze Douga
+Dialogue: 0,0:19:47.99,0:19:50.14,Gen_Main,popuko,0000,0000,0000,,¡Deseo ser el centro de atención!
+Dialogue: 0,0:19:50.58,0:19:52.58,Gen_Main,popuko,0000,0000,0000,,¿Hago el TOEIC?
+Dialogue: 0,0:19:57.13,0:19:58.78,Gen_Main,pipimi,0000,0000,0000,,Me gusta.
+Dialogue: 0,0:20:00.63,0:20:02.96,Gen_Main,pipimi,0000,0000,0000,,¡Deseo ser el centro de atención!
+Dialogue: 0,0:20:03.13,0:20:05.34,Gen_Main,pipimi,0000,0000,0000,,Fui a beber el té de la tarde.
+Dialogue: 0,0:20:07.47,0:20:09.35,Gen_Main,2,0000,0000,0000,,Me gusta.
+Dialogue: 0,0:20:09.34,0:20:12.33,Cart_A_Tre,,0000,0000,0000,,{\bord0\an2\pos(320,290)\c&H000000&\b1}Por: Kamikaze Douga
+Dialogue: 0,0:20:10.06,0:20:11.12,Gen_Main,pipimi,0000,0000,0000,,Pero dilo.
+Dialogue: 0,0:20:12.85,0:20:15.60,Gen_Main,popuko,0000,0000,0000,,Se me ocurrió un {\i1}senryu{\i0}.
+Dialogue: 0,0:20:15.77,0:20:17.19,Gen_Main,pipimi,0000,0000,0000,,¡Adelante!
+Dialogue: 0,0:20:17.65,0:20:18.93,Gen_Main,popuko,0000,0000,0000,,Cállate ya.
+Dialogue: 0,0:20:19.11,0:20:20.54,Gen_Main,popuko,0000,0000,0000,,Cierra el pico.
+Dialogue: 0,0:20:20.69,0:20:22.03,Gen_Main,popuko,0000,0000,0000,,Cállate ya.
+Dialogue: 0,0:20:22.70,0:20:23.81,Gen_Main,popuko,0000,0000,0000,,Popuko.
+Dialogue: 0,0:20:24.32,0:20:25.52,Gen_Main,pipimi,0000,0000,0000,,Suena horrible.
+Dialogue: 0,0:20:25.70,0:20:28.39,Gen_Main,pipimi,0000,0000,0000,,Es de una calidad megapésima.
+Dialogue: 0,0:20:29.37,0:20:30.55,Gen_Main,pipimi,0000,0000,0000,,Pipimi.
+Dialogue: 0,0:20:31.87,0:20:33.16,Gen_Main,popuko,0000,0000,0000,,¿Eh?
+Dialogue: 0,0:20:33.33,0:20:34.71,Gen_Main,popuko,0000,0000,0000,,No me lo creo.
+Dialogue: 0,0:20:34.87,0:20:37.28,Gen_Main,popuko,0000,0000,0000,,Lo leí con confianza.
+Dialogue: 0,0:20:37.63,0:20:38.63,Gen_Main,popuko,0000,0000,0000,,Popuko.
+Dialogue: 0,0:20:38.80,0:20:39.84,Gen_Main,pipimi,0000,0000,0000,,No llores, cielo.
+Dialogue: 0,0:20:40.00,0:20:42.34,Gen_Main,pipimi,0000,0000,0000,,Las lágrimas no te pegan nada.
+Dialogue: 0,0:20:42.51,0:20:43.97,Gen_Main,popuko/pipimi,0000,0000,0000,,-Sí me pegan.\N-Pipimi.
+Dialogue: 0,0:20:45.01,0:20:48.00,Cart_A_Tre,,0000,0000,0000,,{\bord0\an2\pos(320,290)\c&H000000&\b1}Por: Ryo Yamashita
+Dialogue: 0,0:20:45.76,0:20:47.60,Gen_Main,,0000,0000,0000,,Pop Team Epic.
+Dialogue: 0,0:20:52.14,0:20:54.93,Gen_Italics,yasu,0000,0000,0000,,Jefa Pipi, no nos da una coartada.
+Dialogue: 0,0:20:55.94,0:20:57.67,Gen_Italics,pipimi,0000,0000,0000,,Déjamelo a mí.
+Dialogue: 1,0:20:57.67,0:20:59.11,Cart_A_Tre,,0000,0000,0000,,{\p1\bord0\an7\c&H050805&\pos(396,47)}m 0 0 l 120 0 120 190 0 190{\p0}
+Dialogue: 2,0:20:57.67,0:20:59.11,Cart_A_Tre,,0000,0000,0000,,{\bord0\shad0\blur0.5\fs18\an7\pos(399,53)\b0}Moverse\NHablar\NInvestigar\NMostrar\NBuscar\NLlamar\NDetener{\b1}
+Dialogue: 0,0:21:00.07,0:21:02.37,Gen_Italics,yasu,0000,0000,0000,,Sala de interrogatorios.
+Dialogue: 1,0:21:01.17,0:21:02.69,Cart_A_Tre,,0000,0000,0000,,{\p1\bord0\an7\c&H050805&\pos(396,47)}m 0 0 l 120 0 120 190 0 190{\p0}
+Dialogue: 2,0:21:01.17,0:21:02.69,Cart_A_Tre,,0000,0000,0000,,{\bord0\shad0\blur0.5\fs18\an7\pos(399,53)\b0}Moverse\NHablar\NInvestigar\NMostrar\NBuscar\NLlamar\NDetener{\b1}
+Dialogue: 0,0:21:02.69,0:21:03.81,Gen_Italics,yasu,0000,0000,0000,,¿A quién llamas?
+Dialogue: 1,0:21:03.17,0:21:03.90,Cart_A_Tre,,0000,0000,0000,,{\p1\bord0\an7\c&H050805&\pos(396,47)}m 0 0 l 120 0 120 190 0 190{\p0}
+Dialogue: 2,0:21:03.17,0:21:03.90,Cart_A_Tre,,0000,0000,0000,,{\bord0\shad0\blur0.5\fs18\an7\pos(399,53)\b0}Popu{\b1}
+Dialogue: 0,0:21:03.99,0:21:06.40,Gen_Italics,pipimi,0000,0000,0000,,Popu, fuiste tú, ¿verdad?
+Dialogue: 0,0:21:07.41,0:21:10.03,Gen_Italics,pipimi,0000,0000,0000,,Fuiste tú, ¿verdad?
+Dialogue: 0,0:21:10.20,0:21:12.41,Gen_Italics,yasu,0000,0000,0000,,Creo que te estás pasando, jefa.
+Dialogue: 0,0:21:12.58,0:21:14.64,Gen_Italics,pipimi,0000,0000,0000,,Fuiste tú.
+Dialogue: 0,0:21:15.00,0:21:16.72,Gen_Italics,pipimi,0000,0000,0000,,¡Fuiste tú!
+Dialogue: 0,0:21:16.87,0:21:18.57,Gen_Italics,yasu/pipimi,0000,0000,0000,,-¡No!\N-¿Qué haces?
+Dialogue: 0,0:21:18.75,0:21:22.05,Gen_Italics,yasu,0000,0000,0000,,Por favor, ordene detener\Nla investigación, jefa.
+Dialogue: 0,0:21:22.21,0:21:24.00,Gen_Italics,pipimi,0000,0000,0000,,¡Cállate! El culpable…
+Dialogue: 0,0:21:24.00,0:21:29.46,Cart_A_Tre,,0000,0000,0000,,{\p1\bord0\an8\c&H050805&\pos(312,219)}m 0 0 l 250 0 250 120 0 120{\p0}
+Dialogue: 0,0:21:24.00,0:21:29.46,Cart_A_Tre,,0000,0000,0000,,{\bord0\shad0\blur0.5\fs18\an8\b0\pos(320,225)}Asesinatos en serie de Portopia.\NColaboración con Pop Team Epic.\N\N\NFin
+Dialogue: 0,0:21:29.46,0:21:32.59,Cart_A_Tre,,0000,0000,0000,,{\bord0\an2\pos(320,290)\c&H000000&\b1}Por: Space Neko Company
+Dialogue: 0,0:21:29.51,0:21:32.20,Gen_Italics,,0000,0000,0000,,Pop Team Epic, pic.
+Dialogue: 0,0:21:32.97,0:21:35.79,Gen_Main,popuko,0000,0000,0000,,Vamos a luchar\Ncon personalidades retrasadas.
+Dialogue: 0,0:21:35.94,0:21:37.09,Gen_Main,pipimi,0000,0000,0000,,Buena idea.
+Dialogue: 0,0:21:37.09,0:21:39.59,Cart_A_Ari,,0000,0000,0000,,{\c&H2D8DE4&\3c&H000737&\shad2\fad(200,0)\4c&H1A1F3A&\frx10\fry0}Personalidades retrasadas
+Dialogue: 0,0:21:39.77,0:21:40.97,Gen_Main,popuko,0000,0000,0000,,¡Allá voy!
+Dialogue: 0,0:21:55.20,0:22:02.31,Gen_Italics_top,,0000,0000,0000,,Vamos a jugar con nuestros deditos.
+Dialogue: 0,0:22:02.46,0:22:09.95,Gen_Italics_top,,0000,0000,0000,,Solo necesitas un dedito.
+Dialogue: 0,0:22:10.09,0:22:17.50,Gen_Italics_top,,0000,0000,0000,,Uno más uno son dos.
+Dialogue: 0,0:22:17.64,0:22:24.37,Gen_Italics_top,,0000,0000,0000,,Vamos, hagamos esto juntas.
+Dialogue: 0,0:22:24.53,0:22:31.96,Gen_Italics_top,,0000,0000,0000,,Solo somos dos guisantes, solo somos\Ndos guisantes, guisantes, gui, gui, gui.
+Dialogue: 0,0:22:28.20,0:22:31.26,Gen_Main,popuko,0000,0000,0000,,El {\i1}senryu{\i0} es…
+Dialogue: 0,0:22:32.16,0:22:39.51,Gen_Italics_top,,0000,0000,0000,,Solo somos dos guisantes, solo somos\Ndos guisantes, guisantes, gui, gui, gui.
+Dialogue: 0,0:22:33.41,0:22:35.33,Gen_Main,popuko,0000,0000,0000,,Cállate ya. Cierra el…
+Dialogue: 0,0:22:35.50,0:22:37.40,Gen_Main,pipimi/popuko,0000,0000,0000,,-Vamos a repetirlo.\N-Cállate ya.
+Dialogue: 0,0:22:37.58,0:22:39.86,Gen_Main,pipimi/popuko,0000,0000,0000,,-Esto es demasiado.\N-Popuko.
+Dialogue: 0,0:22:39.71,0:22:46.98,Gen_Italics_top,,0000,0000,0000,,Solo somos dos guisantes, solo somos\Ndos guisantes, guisantes, gui, gui, gui.
+Dialogue: 0,0:22:40.54,0:22:42.20,Gen_Main,pipimi,0000,0000,0000,,No puedes pasarte aquí.
+Dialogue: 0,0:22:42.38,0:22:43.38,Gen_Main,popuko,0000,0000,0000,,Pues no.
+Dialogue: 0,0:22:44.88,0:22:46.12,Gen_Main,popuko,0000,0000,0000,,No me lo creo.
+Dialogue: 0,0:22:47.13,0:22:53.99,Gen_Italics_top,,0000,0000,0000,,No me seas infiel.
+Dialogue: 0,0:22:48.26,0:22:51.98,Gen_Main,popuko,0000,0000,0000,,Lo leí con confianza…\NSe ha acabado.
+Dialogue: 0,0:22:52.51,0:22:54.66,Gen_Main,pipimi/popuko,0000,0000,0000,,-Vamos a repetirlo.\N-Sí.
+Dialogue: 0,0:22:54.83,0:22:55.68,Cart_A_Tre,,0000,0000,0000,,{\b0\fs20}Traducción: Iris de la Fuente y Abraham Gayuvas\NEdición: M.R.G.\NControl de calidad: Abraham Gayuvas
+Dialogue: 0,0:22:55.67,0:23:40.05,Cart_A_Tre,,0000,0000,0000,,{\c&HAD24E9&\fscx80\3c&HF7B5FA&\bord2\frz344.2\4c&H986688&\shad1.5\pos(122,22)}¡Bienvenidos, haters!
+Dialogue: 0,0:22:55.68,0:23:39.98,Cart_A_Tre,,0000,0000,0000,,{\3c&H564758&\an2\bord1\shad1\c&HFFF8FF&\fs18\fscx90\blur1\b1\4c&H564758&\pos(484,293)}¿Comprarás el BD de Pop Team Epic 2?{\b0}
+Dialogue: 0,0:22:56.06,0:22:59.12,Gen_Main,pipimi,0000,0000,0000,,Gracias por comprar Pop Team Epic.
+Dialogue: 0,0:22:59.27,0:23:02.48,Gen_Main,popuko,0000,0000,0000,,Habrá gente viéndolo por streaming.
+Dialogue: 0,0:23:02.65,0:23:05.94,Gen_Main,popuko,0000,0000,0000,,No sé yo si lo comprará nadie.
+Dialogue: 0,0:23:06.11,0:23:09.54,Gen_Main,popuko,0000,0000,0000,,Podría compensarles más comprar XX.
+Dialogue: 0,0:23:09.70,0:23:10.96,Gen_Main,pipimi,0000,0000,0000,,¿Qué es XX?
+Dialogue: 0,0:23:11.11,0:23:15.42,Gen_Main,popuko,0000,0000,0000,,XX es XX. Sale bien de precio.
+Dialogue: 0,0:23:15.58,0:23:17.44,Gen_Main,pipimi,0000,0000,0000,,No entiendo nada. ¿Qué es?
+Dialogue: 0,0:23:17.62,0:23:21.86,Gen_Main,popuko,0000,0000,0000,,Ahora mismo además\Nregalan boniatos asados.
+Dialogue: 0,0:23:22.88,0:23:24.28,Gen_Main,pipimi,0000,0000,0000,,No entiendo nada.
+Dialogue: 0,0:23:24.46,0:23:28.94,Gen_Main,popuko,0000,0000,0000,,¿Tú qué comprarías con el dinero\Npara comprar PTE 2?
+Dialogue: 0,0:23:29.09,0:23:31.22,Gen_Main,pipimi,0000,0000,0000,,¿Ahora? Una cuenta de ahorros NISA.
+Dialogue: 0,0:23:31.38,0:23:34.20,Gen_Main,popuko,0000,0000,0000,,¿Una cuesta de niisans? Bien por ti.
+Dialogue: 0,0:23:34.35,0:23:36.06,Gen_Main,popuko,0000,0000,0000,,¿No comprarías PTE?
+Dialogue: 0,0:23:36.22,0:23:38.24,Gen_Main,pipimi,0000,0000,0000,,Claro que no. Que me lo envíen.
+Dialogue: 0,0:23:38.34,0:23:41.66,Cart_A_Tim,,0000,0000,0000,,{\shad0\bord3\3c&H153CF4&\fs72\pos(327,2)}Fin
+Dialogue: 0,0:23:38.40,0:23:39.66,Gen_Main,popuko/pipimi,0000,0000,0000,,-¡No!\N-¡Se acabó!
+
